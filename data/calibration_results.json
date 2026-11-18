@@ -1,0 +1,14 @@
+{
+  "polymarket": {
+    "name": "Polymarket",
+    "n": 27,
+    "brier": 0.004,
+    "skill": 0.9841
+  },
+  "manifold": {
+    "name": "Manifold",
+    "n": 88,
+    "brier": 0.0865,
+    "skill": 0.6541
+  }
+}

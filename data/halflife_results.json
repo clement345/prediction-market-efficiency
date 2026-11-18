@@ -1,0 +1,76 @@
+{
+  "stats": {
+    "median_h": 107.375,
+    "mean_h": 92.22500000000001,
+    "vw_mean_h": 53.278346557364635,
+    "n": 8,
+    "corr_vol": -0.41272908264396013,
+    "pval_vol": 0.30952490169004154
+  },
+  "markets": [
+    {
+      "market_id": "1484949",
+      "question": "Netanyahu out by March 31?",
+      "volume": 102854947.93971872,
+      "n_points": 727,
+      "halflife_h": 25.97,
+      "price_range": 0.239
+    },
+    {
+      "market_id": "1640919",
+      "question": "US forces enter Iran by April 30?",
+      "volume": 15623976.414238112,
+      "n_points": 282,
+      "halflife_h": 1.82,
+      "price_range": 0.19
+    },
+    {
+      "market_id": "1569627",
+      "question": "US x Iran ceasefire by April 15?",
+      "volume": 10410025.933947707,
+      "n_points": 446,
+      "halflife_h": 118.11,
+      "price_range": 0.28
+    },
+    {
+      "market_id": "566188",
+      "question": "Will Manchester City win the 2025\u201326 English Premier League?",
+      "volume": 9768388.834572086,
+      "n_points": 680,
+      "halflife_h": 113.43,
+      "price_range": 0.22
+    },
+    {
+      "market_id": "669662",
+      "question": "Will there be no change in Fed interest rates after the April 2026 meeting?",
+      "volume": 9363684.265506905,
+      "n_points": 640,
+      "halflife_h": 181.56,
+      "price_range": 0.135
+    },
+    {
+      "market_id": "1466016",
+      "question": "US x Iran ceasefire by April 30?",
+      "volume": 8666079.571804103,
+      "n_points": 660,
+      "halflife_h": 107.28,
+      "price_range": 0.44
+    },
+    {
+      "market_id": "566187",
+      "question": "Will Arsenal win the 2025\u201326 English Premier League?",
+      "volume": 8206061.43050048,
+      "n_points": 586,
+      "halflife_h": 107.47,
+      "price_range": 0.23
+    },
+    {
+      "market_id": "1394299",
+      "question": "US forces enter Iran by December 31?",
+      "volume": 8186063.880273029,
+      "n_points": 742,
+      "halflife_h": 82.16,
+      "price_range": 0.28
+    }
+  ]
+}

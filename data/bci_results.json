@@ -1,0 +1,6635 @@
+[
+  {
+    "slug": "crypto-boxing",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 2641015.280124003,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-fight-night-magny-vs-prates",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 206844.111408,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-win-each-game-in-world-chess-championship",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 171040.32945699999,
+    "is_partition": true
+  },
+  {
+    "slug": "microstrategy-sell-any-bitcoin-in-2025",
+    "pcd": -0.8325,
+    "sum_prices": 0.1675,
+    "dutch_book_pct": 0.8325,
+    "n_markets": 2,
+    "total_vol": 22028412.122805,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-311-makhachev-vs-tsarukyan",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 1256378.891055,
+    "is_partition": false
+  },
+  {
+    "slug": "starmer-out-in-2025",
+    "pcd": -0.14100000000000001,
+    "sum_prices": 0.859,
+    "dutch_book_pct": 0.14100000000000001,
+    "n_markets": 3,
+    "total_vol": 10351012.425827002,
+    "is_partition": false
+  },
+  {
+    "slug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
+    "pcd": -0.8405,
+    "sum_prices": 0.1595,
+    "dutch_book_pct": 0.8405,
+    "n_markets": 2,
+    "total_vol": 2336691.839894,
+    "is_partition": false
+  },
+  {
+    "slug": "will-any-country-leave-nato-in-2025",
+    "pcd": -0.731,
+    "sum_prices": 0.269,
+    "dutch_book_pct": 0.731,
+    "n_markets": 2,
+    "total_vol": 567903.2427529999,
+    "is_partition": false
+  },
+  {
+    "slug": "ukraine-election-held-in-2025",
+    "pcd": -0.755,
+    "sum_prices": 0.245,
+    "dutch_book_pct": 0.755,
+    "n_markets": 2,
+    "total_vol": 1984702.2666809997,
+    "is_partition": false
+  },
+  {
+    "slug": "the-last-crescendo-beterbiev-vs-bivol",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 322952.383248,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-happen-before-gta-vi",
+    "pcd": 4.1935,
+    "sum_prices": 5.1935,
+    "dutch_book_pct": 4.1935,
+    "n_markets": 9,
+    "total_vol": 19829696.3614527,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-the-next-pope-believe-in",
+    "pcd": 1.5,
+    "sum_prices": 2.5,
+    "dutch_book_pct": 1.5,
+    "n_markets": 5,
+    "total_vol": 379931.89944300003,
+    "is_partition": false
+  },
+  {
+    "slug": "harvey-weinstein-prison-time",
+    "pcd": -0.014499999999999957,
+    "sum_prices": 0.9855,
+    "dutch_book_pct": 0.014499999999999957,
+    "n_markets": 6,
+    "total_vol": 698014.193328001,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-fight-night-blanchfield-vs-barber",
+    "pcd": 2.0,
+    "sum_prices": 3.0,
+    "dutch_book_pct": 2.0,
+    "n_markets": 6,
+    "total_vol": 2018306.781224,
+    "is_partition": false
+  },
+  {
+    "slug": "will-russia-capture-kostyantynivka-by",
+    "pcd": 0.6149999999999998,
+    "sum_prices": 1.6149999999999998,
+    "dutch_book_pct": 0.6149999999999998,
+    "n_markets": 3,
+    "total_vol": 5715767.485138004,
+    "is_partition": false
+  },
+  {
+    "slug": "israel-and-syria-normalize-relations-in-2025",
+    "pcd": -0.79,
+    "sum_prices": 0.21,
+    "dutch_book_pct": 0.79,
+    "n_markets": 2,
+    "total_vol": 1720194.0186699992,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-fight-night-usman-vs-buckley",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 1045048.0088009997,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-nhl-stanley-cup-champion",
+    "pcd": -0.0025000000000001688,
+    "sum_prices": 0.9974999999999998,
+    "dutch_book_pct": 0.0025000000000001688,
+    "n_markets": 24,
+    "total_vol": 60065028.52165796,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-nba-champion",
+    "pcd": 0.019000000000000128,
+    "sum_prices": 1.0190000000000001,
+    "dutch_book_pct": 0.019000000000000128,
+    "n_markets": 20,
+    "total_vol": 216758597.3197639,
+    "is_partition": true
+  },
+  {
+    "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+    "pcd": 0.5839999999999999,
+    "sum_prices": 1.5839999999999999,
+    "dutch_book_pct": 0.5839999999999999,
+    "n_markets": 8,
+    "total_vol": 14394125.093282085,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-fifa-world-cup-winner-595",
+    "pcd": 0.01550000000000007,
+    "sum_prices": 1.0155,
+    "dutch_book_pct": 0.01550000000000007,
+    "n_markets": 48,
+    "total_vol": 459943041.46533084,
+    "is_partition": true
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "pcd": -0.07199999999999995,
+    "sum_prices": 0.928,
+    "dutch_book_pct": 0.07199999999999995,
+    "n_markets": 44,
+    "total_vol": 960209490.5577022,
+    "is_partition": true
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "pcd": -0.10750000000000015,
+    "sum_prices": 0.8924999999999998,
+    "dutch_book_pct": 0.10750000000000015,
+    "n_markets": 36,
+    "total_vol": 482071336.9444898,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-rookie-of-the-year-873",
+    "pcd": -0.0014999999999999458,
+    "sum_prices": 0.9985,
+    "dutch_book_pct": 0.0014999999999999458,
+    "n_markets": 2,
+    "total_vol": 2045948.2759080008,
+    "is_partition": false
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "pcd": -0.060000000000000164,
+    "sum_prices": 0.9399999999999998,
+    "dutch_book_pct": 0.060000000000000164,
+    "n_markets": 35,
+    "total_vol": 505335132.6173053,
+    "is_partition": true
+  },
+  {
+    "slug": "texas-republican-senate-primary-winner",
+    "pcd": -0.030000000000000027,
+    "sum_prices": 0.97,
+    "dutch_book_pct": 0.030000000000000027,
+    "n_markets": 2,
+    "total_vol": 13174966.687842252,
+    "is_partition": true
+  },
+  {
+    "slug": "which-party-will-win-the-senate-in-2026",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 1392226.4669740053,
+    "is_partition": true
+  },
+  {
+    "slug": "which-party-will-win-the-house-in-2026",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 4095693.190864995,
+    "is_partition": true
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "pcd": 0.009999999999999787,
+    "sum_prices": 1.0099999999999998,
+    "dutch_book_pct": 0.009999999999999787,
+    "n_markets": 5,
+    "total_vol": 4326259.797526005,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-mvp-694",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 5,
+    "total_vol": 68267062.31806412,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-eastern-conference-champion-442",
+    "pcd": 0.01649999999999996,
+    "sum_prices": 1.0165,
+    "dutch_book_pct": 0.01649999999999996,
+    "n_markets": 10,
+    "total_vol": 13704202.58445691,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-western-conference-champion-933",
+    "pcd": 0.013500000000000068,
+    "sum_prices": 1.0135,
+    "dutch_book_pct": 0.013500000000000068,
+    "n_markets": 10,
+    "total_vol": 16416643.483818026,
+    "is_partition": true
+  },
+  {
+    "slug": "which-party-wins-2028-us-presidential-election",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 1581824.1895579963,
+    "is_partition": true
+  },
+  {
+    "slug": "uefa-champions-league-winner",
+    "pcd": -0.0029999999999998916,
+    "sum_prices": 0.9970000000000001,
+    "dutch_book_pct": 0.0029999999999998916,
+    "n_markets": 8,
+    "total_vol": 221882574.1729846,
+    "is_partition": true
+  },
+  {
+    "slug": "english-premier-league-winner",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 3,
+    "total_vol": 312997461.7427309,
+    "is_partition": true
+  },
+  {
+    "slug": "la-liga-winner-114",
+    "pcd": -0.0050000000000001155,
+    "sum_prices": 0.9949999999999999,
+    "dutch_book_pct": 0.0050000000000001155,
+    "n_markets": 4,
+    "total_vol": 103705511.99995081,
+    "is_partition": true
+  },
+  {
+    "slug": "will-russia-capture-lyman-in-2025",
+    "pcd": 0.29499999999999993,
+    "sum_prices": 1.295,
+    "dutch_book_pct": 0.29499999999999993,
+    "n_markets": 3,
+    "total_vol": 1976122.947912002,
+    "is_partition": false
+  },
+  {
+    "slug": "serie-a-league-winner",
+    "pcd": -0.011000000000000232,
+    "sum_prices": 0.9889999999999998,
+    "dutch_book_pct": 0.011000000000000232,
+    "n_markets": 7,
+    "total_vol": 2763075.5745919994,
+    "is_partition": true
+  },
+  {
+    "slug": "bundesliga-winner-527",
+    "pcd": -0.0015000000000001679,
+    "sum_prices": 0.9984999999999998,
+    "dutch_book_pct": 0.0015000000000001679,
+    "n_markets": 5,
+    "total_vol": 3164161.392957,
+    "is_partition": true
+  },
+  {
+    "slug": "french-ligue-1-winner",
+    "pcd": -0.0004999999999999449,
+    "sum_prices": 0.9995,
+    "dutch_book_pct": 0.0004999999999999449,
+    "n_markets": 4,
+    "total_vol": 15659967.063813036,
+    "is_partition": true
+  },
+  {
+    "slug": "next-prime-minister-of-hungary",
+    "pcd": -0.0045000000000001705,
+    "sum_prices": 0.9954999999999998,
+    "dutch_book_pct": 0.0045000000000001705,
+    "n_markets": 5,
+    "total_vol": 43202876.09614208,
+    "is_partition": false
+  },
+  {
+    "slug": "netanyahu-out-before-2027",
+    "pcd": -0.5235,
+    "sum_prices": 0.47650000000000003,
+    "dutch_book_pct": 0.5235,
+    "n_markets": 3,
+    "total_vol": 111778828.60630764,
+    "is_partition": false
+  },
+  {
+    "slug": "augusta-national-invitational-winner",
+    "pcd": 0.014499999999999957,
+    "sum_prices": 1.0145,
+    "dutch_book_pct": 0.014499999999999957,
+    "n_markets": 59,
+    "total_vol": 63784924.84302001,
+    "is_partition": true
+  },
+  {
+    "slug": "colombia-presidential-election-1st-round-winner",
+    "pcd": 0.03100000000000014,
+    "sum_prices": 1.0310000000000001,
+    "dutch_book_pct": 0.03100000000000014,
+    "n_markets": 17,
+    "total_vol": 1831541.6816620003,
+    "is_partition": true
+  },
+  {
+    "slug": "colombia-presidential-election",
+    "pcd": -0.006500000000000172,
+    "sum_prices": 0.9934999999999998,
+    "dutch_book_pct": 0.006500000000000172,
+    "n_markets": 10,
+    "total_vol": 11925572.132595053,
+    "is_partition": true
+  },
+  {
+    "slug": "next-james-bond-actor-635",
+    "pcd": 0.000500000000000167,
+    "sum_prices": 1.0005000000000002,
+    "dutch_book_pct": 0.000500000000000167,
+    "n_markets": 15,
+    "total_vol": 1594593.7434639994,
+    "is_partition": false
+  },
+  {
+    "slug": "english-premier-league-2nd-place",
+    "pcd": -0.037000000000000144,
+    "sum_prices": 0.9629999999999999,
+    "dutch_book_pct": 0.037000000000000144,
+    "n_markets": 12,
+    "total_vol": 1640071.624642,
+    "is_partition": false
+  },
+  {
+    "slug": "english-premier-league-3rd-place",
+    "pcd": -0.35450000000000004,
+    "sum_prices": 0.6455,
+    "dutch_book_pct": 0.35450000000000004,
+    "n_markets": 4,
+    "total_vol": 443648.4151790002,
+    "is_partition": false
+  },
+  {
+    "slug": "english-premier-league-last-place",
+    "pcd": -0.016000000000000014,
+    "sum_prices": 0.984,
+    "dutch_book_pct": 0.016000000000000014,
+    "n_markets": 6,
+    "total_vol": 560565.8403950004,
+    "is_partition": false
+  },
+  {
+    "slug": "epl-which-clubs-get-relegated",
+    "pcd": 2.0905,
+    "sum_prices": 3.0905,
+    "dutch_book_pct": 2.0905,
+    "n_markets": 10,
+    "total_vol": 1671781.665842999,
+    "is_partition": false
+  },
+  {
+    "slug": "when-will-bitcoin-hit-150k",
+    "pcd": -0.888,
+    "sum_prices": 0.112,
+    "dutch_book_pct": 0.888,
+    "n_markets": 2,
+    "total_vol": 3096017.094807998,
+    "is_partition": false
+  },
+  {
+    "slug": "gpt-6-released-by",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 383675.1157729999,
+    "is_partition": false
+  },
+  {
+    "slug": "claude-5-released-by",
+    "pcd": -0.245,
+    "sum_prices": 0.755,
+    "dutch_book_pct": 0.245,
+    "n_markets": 2,
+    "total_vol": 2984873.104549005,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-319-du-plessis-vs-chimaev",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 8476970.427514,
+    "is_partition": false
+  },
+  {
+    "slug": "english-premier-league-top-goalscorer",
+    "pcd": -0.06250000000000011,
+    "sum_prices": 0.9374999999999999,
+    "dutch_book_pct": 0.06250000000000011,
+    "n_markets": 20,
+    "total_vol": 891655.1594179999,
+    "is_partition": false
+  },
+  {
+    "slug": "la-liga-top-goalscorer",
+    "pcd": 0.0009999999999998899,
+    "sum_prices": 1.001,
+    "dutch_book_pct": 0.0009999999999998899,
+    "n_markets": 19,
+    "total_vol": 1063499.018681,
+    "is_partition": false
+  },
+  {
+    "slug": "bundesliga-top-goalscorer",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 5,
+    "total_vol": 143309.216456,
+    "is_partition": false
+  },
+  {
+    "slug": "uefa-europa-league-winner",
+    "pcd": -0.020000000000000018,
+    "sum_prices": 0.98,
+    "dutch_book_pct": 0.020000000000000018,
+    "n_markets": 8,
+    "total_vol": 2507989.016152,
+    "is_partition": true
+  },
+  {
+    "slug": "serie-a-top-4-finish",
+    "pcd": 2.2729999999999997,
+    "sum_prices": 3.2729999999999997,
+    "dutch_book_pct": 2.2729999999999997,
+    "n_markets": 4,
+    "total_vol": 181519.20246200002,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-pro-football-draft-first-overall-pick",
+    "pcd": 0.004999999999999893,
+    "sum_prices": 1.005,
+    "dutch_book_pct": 0.004999999999999893,
+    "n_markets": 7,
+    "total_vol": 620341.2529499999,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-fight-night-imavov-vs-borralho",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 1756868.3139559997,
+    "is_partition": false
+  },
+  {
+    "slug": "english-premier-league-top-4-finish",
+    "pcd": 1.0595000000000003,
+    "sum_prices": 2.0595000000000003,
+    "dutch_book_pct": 1.0595000000000003,
+    "n_markets": 7,
+    "total_vol": 1525932.7195760007,
+    "is_partition": false
+  },
+  {
+    "slug": "la-liga-top-4-finish",
+    "pcd": 0.9999999999999998,
+    "sum_prices": 1.9999999999999998,
+    "dutch_book_pct": 0.9999999999999998,
+    "n_markets": 5,
+    "total_vol": 131411.50215799996,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-bernie-endorse",
+    "pcd": 0.6935,
+    "sum_prices": 1.6935,
+    "dutch_book_pct": 0.6935,
+    "n_markets": 4,
+    "total_vol": 108191.96671700006,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-trump-endorse",
+    "pcd": -0.11750000000000005,
+    "sum_prices": 0.8825,
+    "dutch_book_pct": 0.11750000000000005,
+    "n_markets": 2,
+    "total_vol": 100344.85106000002,
+    "is_partition": false
+  },
+  {
+    "slug": "will-base-launch-a-token-in-2025-341",
+    "pcd": -0.48550000000000004,
+    "sum_prices": 0.5145,
+    "dutch_book_pct": 0.48550000000000004,
+    "n_markets": 2,
+    "total_vol": 5938177.664879002,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-fight-night-ulberg-vs-reyes",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 4376645.667033001,
+    "is_partition": false
+  },
+  {
+    "slug": "michigan-democratic-senate-primary-winner",
+    "pcd": 0.0020000000000000018,
+    "sum_prices": 1.002,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 9,
+    "total_vol": 360020.943867,
+    "is_partition": true
+  },
+  {
+    "slug": "maine-democratic-senate-primary-winner",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 2101469.4312349996,
+    "is_partition": true
+  },
+  {
+    "slug": "south-carolina-republican-senate-primary-winner",
+    "pcd": -0.06000000000000005,
+    "sum_prices": 0.94,
+    "dutch_book_pct": 0.06000000000000005,
+    "n_markets": 2,
+    "total_vol": 37208.616773000016,
+    "is_partition": true
+  },
+  {
+    "slug": "who-will-acquire-tiktok-559",
+    "pcd": -0.4764999999999999,
+    "sum_prices": 0.5235000000000001,
+    "dutch_book_pct": 0.4764999999999999,
+    "n_markets": 6,
+    "total_vol": 997011.717961,
+    "is_partition": false
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "pcd": -0.008000000000000118,
+    "sum_prices": 0.9919999999999999,
+    "dutch_book_pct": 0.008000000000000118,
+    "n_markets": 14,
+    "total_vol": 36298450.47608904,
+    "is_partition": true
+  },
+  {
+    "slug": "champions-league-top-scorer-655",
+    "pcd": 0.006000000000000005,
+    "sum_prices": 1.006,
+    "dutch_book_pct": 0.006000000000000005,
+    "n_markets": 17,
+    "total_vol": 905771.9026270002,
+    "is_partition": true
+  },
+  {
+    "slug": "which-candidates-will-advance-to-brazils-presidential-runoff",
+    "pcd": 0.7450000000000001,
+    "sum_prices": 1.745,
+    "dutch_book_pct": 0.7450000000000001,
+    "n_markets": 5,
+    "total_vol": 225356.24541500004,
+    "is_partition": true
+  },
+  {
+    "slug": "will-metamask-launch-a-token-in-2025",
+    "pcd": -0.35150000000000003,
+    "sum_prices": 0.6485,
+    "dutch_book_pct": 0.35150000000000003,
+    "n_markets": 3,
+    "total_vol": 8295297.994210002,
+    "is_partition": false
+  },
+  {
+    "slug": "will-trump-visit-china-by",
+    "pcd": 0.6435,
+    "sum_prices": 1.6435,
+    "dutch_book_pct": 0.6435,
+    "n_markets": 3,
+    "total_vol": 19203570.613414954,
+    "is_partition": false
+  },
+  {
+    "slug": "openai-ipo-closing-market-cap",
+    "pcd": 0.006000000000000005,
+    "sum_prices": 1.006,
+    "dutch_book_pct": 0.006000000000000005,
+    "n_markets": 7,
+    "total_vol": 1546821.4286520001,
+    "is_partition": false
+  },
+  {
+    "slug": "fannie-mae-ipo-closing-market-cap",
+    "pcd": -0.02750000000000008,
+    "sum_prices": 0.9724999999999999,
+    "dutch_book_pct": 0.02750000000000008,
+    "n_markets": 7,
+    "total_vol": 263259.061136,
+    "is_partition": false
+  },
+  {
+    "slug": "freddie-mac-ipo-closing-market-cap",
+    "pcd": -0.04400000000000004,
+    "sum_prices": 0.956,
+    "dutch_book_pct": 0.04400000000000004,
+    "n_markets": 5,
+    "total_vol": 183915.89267900004,
+    "is_partition": false
+  },
+  {
+    "slug": "databricks-ipo-closing-market-cap",
+    "pcd": 0.01550000000000007,
+    "sum_prices": 1.0155,
+    "dutch_book_pct": 0.01550000000000007,
+    "n_markets": 8,
+    "total_vol": 365494.379143,
+    "is_partition": false
+  },
+  {
+    "slug": "stripe-ipo-closing-market-cap",
+    "pcd": -0.0010000000000000009,
+    "sum_prices": 0.999,
+    "dutch_book_pct": 0.0010000000000000009,
+    "n_markets": 4,
+    "total_vol": 105491.38409899987,
+    "is_partition": false
+  },
+  {
+    "slug": "discord-ipo-closing-market-cap",
+    "pcd": 0.00649999999999995,
+    "sum_prices": 1.0065,
+    "dutch_book_pct": 0.00649999999999995,
+    "n_markets": 6,
+    "total_vol": 809456.6301190001,
+    "is_partition": false
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap",
+    "pcd": 0.0044999999999999485,
+    "sum_prices": 1.0045,
+    "dutch_book_pct": 0.0044999999999999485,
+    "n_markets": 7,
+    "total_vol": 917048.4333270006,
+    "is_partition": false
+  },
+  {
+    "slug": "ballon-dor-winner-2026",
+    "pcd": -0.08300000000000007,
+    "sum_prices": 0.9169999999999999,
+    "dutch_book_pct": 0.08300000000000007,
+    "n_markets": 10,
+    "total_vol": 2038379.7454459998,
+    "is_partition": true
+  },
+  {
+    "slug": "nato-x-russia-military-clash-in-2025",
+    "pcd": -0.779,
+    "sum_prices": 0.221,
+    "dutch_book_pct": 0.779,
+    "n_markets": 2,
+    "total_vol": 1395554.8029729999,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-fed-rate-cuts-in-2026",
+    "pcd": -0.018500000000000183,
+    "sum_prices": 0.9814999999999998,
+    "dutch_book_pct": 0.018500000000000183,
+    "n_markets": 13,
+    "total_vol": 15330336.970641052,
+    "is_partition": false
+  },
+  {
+    "slug": "opensea-fdv-above-one-day-after-launch",
+    "pcd": 1.5685000000000002,
+    "sum_prices": 2.5685000000000002,
+    "dutch_book_pct": 1.5685000000000002,
+    "n_markets": 8,
+    "total_vol": 5560580.380713992,
+    "is_partition": false
+  },
+  {
+    "slug": "where-will-trump-and-putin-meet-next-584",
+    "pcd": 0.028999999999999915,
+    "sum_prices": 1.029,
+    "dutch_book_pct": 0.028999999999999915,
+    "n_markets": 15,
+    "total_vol": 4611894.942952,
+    "is_partition": false
+  },
+  {
+    "slug": "california-governor-election-2026",
+    "pcd": -0.02299999999999991,
+    "sum_prices": 0.9770000000000001,
+    "dutch_book_pct": 0.02299999999999991,
+    "n_markets": 23,
+    "total_vol": 8154628.245507998,
+    "is_partition": true
+  },
+  {
+    "slug": "los-angeles-mayoral-election-117",
+    "pcd": -0.484,
+    "sum_prices": 0.516,
+    "dutch_book_pct": 0.484,
+    "n_markets": 8,
+    "total_vol": 772340.053795,
+    "is_partition": false
+  },
+  {
+    "slug": "nhl-pacific-division-winner-228",
+    "pcd": -0.028000000000000136,
+    "sum_prices": 0.9719999999999999,
+    "dutch_book_pct": 0.028000000000000136,
+    "n_markets": 5,
+    "total_vol": 397551.00518499885,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-central-division-winner-948",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 203448.29999099998,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-metropolitan-division-winner-831",
+    "pcd": -0.0020000000000000018,
+    "sum_prices": 0.998,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 2,
+    "total_vol": 133237.02367099997,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-atlantic-division-winner-747",
+    "pcd": 0.00649999999999995,
+    "sum_prices": 1.0065,
+    "dutch_book_pct": 0.00649999999999995,
+    "n_markets": 4,
+    "total_vol": 663728.2849900001,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-eastern-conference-champion-198",
+    "pcd": -0.1815,
+    "sum_prices": 0.8185,
+    "dutch_book_pct": 0.1815,
+    "n_markets": 11,
+    "total_vol": 1866189.8878460003,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-western-conference-champion-865",
+    "pcd": 0.04299999999999993,
+    "sum_prices": 1.043,
+    "dutch_book_pct": 0.04299999999999993,
+    "n_markets": 12,
+    "total_vol": 1813859.2391019997,
+    "is_partition": true
+  },
+  {
+    "slug": "arizona-governor-winner-2026",
+    "pcd": -0.015000000000000013,
+    "sum_prices": 0.985,
+    "dutch_book_pct": 0.015000000000000013,
+    "n_markets": 2,
+    "total_vol": 36898.27922100001,
+    "is_partition": true
+  },
+  {
+    "slug": "georgia-governor-winner-2026",
+    "pcd": -0.010000000000000009,
+    "sum_prices": 0.99,
+    "dutch_book_pct": 0.010000000000000009,
+    "n_markets": 2,
+    "total_vol": 30281.033846000013,
+    "is_partition": true
+  },
+  {
+    "slug": "iowa-governor-winner-2026",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 25105.856973999995,
+    "is_partition": true
+  },
+  {
+    "slug": "michigan-governor-winner-2026",
+    "pcd": -0.1499999999999999,
+    "sum_prices": 0.8500000000000001,
+    "dutch_book_pct": 0.1499999999999999,
+    "n_markets": 2,
+    "total_vol": 170857.17186500004,
+    "is_partition": true
+  },
+  {
+    "slug": "minnesota-governor-winner-2026",
+    "pcd": 0.0050000000000001155,
+    "sum_prices": 1.0050000000000001,
+    "dutch_book_pct": 0.0050000000000001155,
+    "n_markets": 2,
+    "total_vol": 44507.018908999984,
+    "is_partition": true
+  },
+  {
+    "slug": "new-york-governor-winner-2026",
+    "pcd": -0.004999999999999893,
+    "sum_prices": 0.9950000000000001,
+    "dutch_book_pct": 0.004999999999999893,
+    "n_markets": 2,
+    "total_vol": 50878.868976,
+    "is_partition": true
+  },
+  {
+    "slug": "ohio-governor-winner-2026",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 70006.41967700006,
+    "is_partition": true
+  },
+  {
+    "slug": "wisconsin-governor-winner-2026",
+    "pcd": -0.03499999999999992,
+    "sum_prices": 0.9650000000000001,
+    "dutch_book_pct": 0.03499999999999992,
+    "n_markets": 2,
+    "total_vol": 65396.26088100004,
+    "is_partition": true
+  },
+  {
+    "slug": "iowa-senate-election-winner",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 82837.10585700005,
+    "is_partition": true
+  },
+  {
+    "slug": "maine-senate-election-winner",
+    "pcd": 0.010000000000000009,
+    "sum_prices": 1.01,
+    "dutch_book_pct": 0.010000000000000009,
+    "n_markets": 2,
+    "total_vol": 47342.612891,
+    "is_partition": true
+  },
+  {
+    "slug": "michigan-senate-election-winner",
+    "pcd": -0.015000000000000013,
+    "sum_prices": 0.985,
+    "dutch_book_pct": 0.015000000000000013,
+    "n_markets": 2,
+    "total_vol": 100306.84135600002,
+    "is_partition": true
+  },
+  {
+    "slug": "montana-senate-election-winner",
+    "pcd": -0.040000000000000036,
+    "sum_prices": 0.96,
+    "dutch_book_pct": 0.040000000000000036,
+    "n_markets": 2,
+    "total_vol": 39432.263461000024,
+    "is_partition": true
+  },
+  {
+    "slug": "north-carolina-senate-election-winner",
+    "pcd": 0.004999999999999893,
+    "sum_prices": 1.005,
+    "dutch_book_pct": 0.004999999999999893,
+    "n_markets": 2,
+    "total_vol": 41569.180508000005,
+    "is_partition": true
+  },
+  {
+    "slug": "texas-senate-election-winner",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 159894.930796,
+    "is_partition": true
+  },
+  {
+    "slug": "ohio-senate-election-winner",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 62317.70364999989,
+    "is_partition": true
+  },
+  {
+    "slug": "which-company-has-top-ai-model-end-of-june-style-control-on",
+    "pcd": -0.261,
+    "sum_prices": 0.739,
+    "dutch_book_pct": 0.261,
+    "n_markets": 8,
+    "total_vol": 910266.0757609998,
+    "is_partition": false
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-june",
+    "pcd": -0.004000000000000115,
+    "sum_prices": 0.9959999999999999,
+    "dutch_book_pct": 0.004000000000000115,
+    "n_markets": 10,
+    "total_vol": 2962694.660276,
+    "is_partition": false
+  },
+  {
+    "slug": "which-company-has-second-best-ai-model-end-of-june",
+    "pcd": -0.7275,
+    "sum_prices": 0.2725,
+    "dutch_book_pct": 0.7275,
+    "n_markets": 4,
+    "total_vol": 317927.67311699997,
+    "is_partition": false
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "pcd": 0.0019999999999997797,
+    "sum_prices": 1.0019999999999998,
+    "dutch_book_pct": 0.0019999999999997797,
+    "n_markets": 7,
+    "total_vol": 3690025.4247739976,
+    "is_partition": false
+  },
+  {
+    "slug": "nebraska-senate-election-winner",
+    "pcd": -0.21350000000000002,
+    "sum_prices": 0.7865,
+    "dutch_book_pct": 0.21350000000000002,
+    "n_markets": 2,
+    "total_vol": 91084.02540300052,
+    "is_partition": true
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "pcd": 0.00550000000000006,
+    "sum_prices": 1.0055,
+    "dutch_book_pct": 0.00550000000000006,
+    "n_markets": 5,
+    "total_vol": 291675.05582599994,
+    "is_partition": true
+  },
+  {
+    "slug": "alaska-governor-election-winner",
+    "pcd": -0.40700000000000003,
+    "sum_prices": 0.593,
+    "dutch_book_pct": 0.40700000000000003,
+    "n_markets": 5,
+    "total_vol": 376636.992887,
+    "is_partition": true
+  },
+  {
+    "slug": "nobel-peace-prize-winner-2026-139",
+    "pcd": -0.32600000000000007,
+    "sum_prices": 0.6739999999999999,
+    "dutch_book_pct": 0.32600000000000007,
+    "n_markets": 20,
+    "total_vol": 12132065.095333986,
+    "is_partition": true
+  },
+  {
+    "slug": "ink-fdv-above-one-day-after-launch",
+    "pcd": 0.22999999999999998,
+    "sum_prices": 1.23,
+    "dutch_book_pct": 0.22999999999999998,
+    "n_markets": 3,
+    "total_vol": 445777.27044299955,
+    "is_partition": false
+  },
+  {
+    "slug": "spacex-starship-flight-test-12",
+    "pcd": 0.8740000000000001,
+    "sum_prices": 1.874,
+    "dutch_book_pct": 0.8740000000000001,
+    "n_markets": 6,
+    "total_vol": 1385194.0010190003,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-321-aspinall-vs-gane",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 9402913.370120997,
+    "is_partition": false
+  },
+  {
+    "slug": "which-teams-will-make-the-nba-playoffs-138",
+    "pcd": 7.056000000000001,
+    "sum_prices": 8.056000000000001,
+    "dutch_book_pct": 7.056000000000001,
+    "n_markets": 12,
+    "total_vol": 1492567.4655840003,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-2025-26-southeast-division-winner",
+    "pcd": -0.026999999999999913,
+    "sum_prices": 0.9730000000000001,
+    "dutch_book_pct": 0.026999999999999913,
+    "n_markets": 4,
+    "total_vol": 729447.2058940004,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-2025-26-atlantic-division-winner",
+    "pcd": -0.018000000000000016,
+    "sum_prices": 0.982,
+    "dutch_book_pct": 0.018000000000000016,
+    "n_markets": 2,
+    "total_vol": 560773.493453,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-best-record-765",
+    "pcd": -0.008500000000000063,
+    "sum_prices": 0.9914999999999999,
+    "dutch_book_pct": 0.008500000000000063,
+    "n_markets": 2,
+    "total_vol": 185006.83227600003,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-worst-record-846",
+    "pcd": -0.03249999999999997,
+    "sum_prices": 0.9675,
+    "dutch_book_pct": 0.03249999999999997,
+    "n_markets": 3,
+    "total_vol": 265189.1734300001,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-2025-26-defensive-player-of-the-year",
+    "pcd": -0.00800000000000023,
+    "sum_prices": 0.9919999999999998,
+    "dutch_book_pct": 0.00800000000000023,
+    "n_markets": 7,
+    "total_vol": 2107554.394635001,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-2025-26-sixth-man-of-the-year",
+    "pcd": -0.12949999999999995,
+    "sum_prices": 0.8705,
+    "dutch_book_pct": 0.12949999999999995,
+    "n_markets": 7,
+    "total_vol": 140264.01469899996,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-2025-26-most-improved-player",
+    "pcd": -0.476,
+    "sum_prices": 0.524,
+    "dutch_book_pct": 0.476,
+    "n_markets": 4,
+    "total_vol": 194591.24606699994,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-2025-26-clutch-player-of-the-year",
+    "pcd": -0.01100000000000001,
+    "sum_prices": 0.989,
+    "dutch_book_pct": 0.01100000000000001,
+    "n_markets": 9,
+    "total_vol": 204137.10141700003,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-2025-26-coach-of-the-year",
+    "pcd": 0.001000000000000112,
+    "sum_prices": 1.0010000000000001,
+    "dutch_book_pct": 0.001000000000000112,
+    "n_markets": 4,
+    "total_vol": 987319.613698,
+    "is_partition": true
+  },
+  {
+    "slug": "nba-2025-26-ppg-leader",
+    "pcd": 0.00550000000000006,
+    "sum_prices": 1.0055,
+    "dutch_book_pct": 0.00550000000000006,
+    "n_markets": 8,
+    "total_vol": 594241.6011810002,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-2025-26-rpg-leader",
+    "pcd": 0.008000000000000007,
+    "sum_prices": 1.008,
+    "dutch_book_pct": 0.008000000000000007,
+    "n_markets": 12,
+    "total_vol": 1000785.411559,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-2025-26-apg-leader",
+    "pcd": 0.0034999999999998366,
+    "sum_prices": 1.0034999999999998,
+    "dutch_book_pct": 0.0034999999999998366,
+    "n_markets": 5,
+    "total_vol": 758281.8447409996,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-2025-26-3pm-leader",
+    "pcd": 0.0044999999999999485,
+    "sum_prices": 1.0045,
+    "dutch_book_pct": 0.0044999999999999485,
+    "n_markets": 12,
+    "total_vol": 621871.9101989998,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-2025-26-bpg-leader",
+    "pcd": 0.0044999999999999485,
+    "sum_prices": 1.0045,
+    "dutch_book_pct": 0.0044999999999999485,
+    "n_markets": 5,
+    "total_vol": 464705.7256660001,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-2025-26-spg-leader",
+    "pcd": -0.4535000000000001,
+    "sum_prices": 0.5464999999999999,
+    "dutch_book_pct": 0.4535000000000001,
+    "n_markets": 11,
+    "total_vol": 458410.2087159999,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-eastern-conference-1-seed",
+    "pcd": -0.000500000000000056,
+    "sum_prices": 0.9994999999999999,
+    "dutch_book_pct": 0.000500000000000056,
+    "n_markets": 2,
+    "total_vol": 162144.11093099997,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-win-totals-over-or-under",
+    "pcd": 1.501,
+    "sum_prices": 2.501,
+    "dutch_book_pct": 1.501,
+    "n_markets": 6,
+    "total_vol": 839130.4765779998,
+    "is_partition": false
+  },
+  {
+    "slug": "nhl-2025-26-presidents-trophy-winner",
+    "pcd": -0.9845,
+    "sum_prices": 0.0155,
+    "dutch_book_pct": 0.9845,
+    "n_markets": 3,
+    "total_vol": 283566.3919249999,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-2025-26-art-ross-trophy",
+    "pcd": -0.024500000000000077,
+    "sum_prices": 0.9754999999999999,
+    "dutch_book_pct": 0.024500000000000077,
+    "n_markets": 4,
+    "total_vol": 304886.1964599999,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-2025-26-hart-memorial-trophy",
+    "pcd": 0.01550000000000007,
+    "sum_prices": 1.0155,
+    "dutch_book_pct": 0.01550000000000007,
+    "n_markets": 6,
+    "total_vol": 157100.87745399997,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-2025-26-calder-memorial-trophy",
+    "pcd": 0.0020000000000000018,
+    "sum_prices": 1.002,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 3,
+    "total_vol": 276615.456923,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-2025-26-frank-j-selke-trophy",
+    "pcd": -0.9835,
+    "sum_prices": 0.0165,
+    "dutch_book_pct": 0.9835,
+    "n_markets": 2,
+    "total_vol": 44204.393207,
+    "is_partition": true
+  },
+  {
+    "slug": "nhl-2025-26-james-norris-memorial-trophy",
+    "pcd": -0.732,
+    "sum_prices": 0.268,
+    "dutch_book_pct": 0.732,
+    "n_markets": 2,
+    "total_vol": 74559.49478599998,
+    "is_partition": true
+  },
+  {
+    "slug": "which-teams-will-make-the-nhl-playoffs",
+    "pcd": -0.6025,
+    "sum_prices": 0.3975,
+    "dutch_book_pct": 0.6025,
+    "n_markets": 2,
+    "total_vol": 63007.100250999996,
+    "is_partition": false
+  },
+  {
+    "slug": "most-popular-boy-name-2025",
+    "pcd": -0.008000000000000118,
+    "sum_prices": 0.9919999999999999,
+    "dutch_book_pct": 0.008000000000000118,
+    "n_markets": 9,
+    "total_vol": 775712.3692409998,
+    "is_partition": false
+  },
+  {
+    "slug": "most-popular-girl-name-2025",
+    "pcd": 0.08749999999999969,
+    "sum_prices": 1.0874999999999997,
+    "dutch_book_pct": 0.08749999999999969,
+    "n_markets": 9,
+    "total_vol": 295541.26509299985,
+    "is_partition": false
+  },
+  {
+    "slug": "openai-ipo-by",
+    "pcd": -0.625,
+    "sum_prices": 0.375,
+    "dutch_book_pct": 0.625,
+    "n_markets": 2,
+    "total_vol": 1126541.7548599998,
+    "is_partition": false
+  },
+  {
+    "slug": "will-consensys-ipo-by-december-31-2025",
+    "pcd": -0.18999999999999995,
+    "sum_prices": 0.81,
+    "dutch_book_pct": 0.18999999999999995,
+    "n_markets": 3,
+    "total_vol": 396699.95449199993,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-fight-night-bonfim-vs-brown",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 2824394.4242209997,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-ncaa-tournament-winner",
+    "pcd": -0.015000000000000013,
+    "sum_prices": 0.985,
+    "dutch_book_pct": 0.015000000000000013,
+    "n_markets": 4,
+    "total_vol": 23944792.335930947,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-womens-ncaa-tournament-winner",
+    "pcd": -0.15349999999999997,
+    "sum_prices": 0.8465,
+    "dutch_book_pct": 0.15349999999999997,
+    "n_markets": 3,
+    "total_vol": 143556.62934400002,
+    "is_partition": true
+  },
+  {
+    "slug": "which-countries-will-donald-trump-visit-in-2026",
+    "pcd": 0.39549999999999996,
+    "sum_prices": 1.3955,
+    "dutch_book_pct": 0.39549999999999996,
+    "n_markets": 2,
+    "total_vol": 130255.91804199998,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-gold-cards-will-trump-sell-in-2026",
+    "pcd": -0.3410000000000001,
+    "sum_prices": 0.6589999999999999,
+    "dutch_book_pct": 0.3410000000000001,
+    "n_markets": 4,
+    "total_vol": 102973.00576600003,
+    "is_partition": false
+  },
+  {
+    "slug": "which-countries-will-recognize-palestine-before-2027",
+    "pcd": -0.15249999999999997,
+    "sum_prices": 0.8475,
+    "dutch_book_pct": 0.15249999999999997,
+    "n_markets": 5,
+    "total_vol": 404923.979192,
+    "is_partition": false
+  },
+  {
+    "slug": "which-country-will-join-abraham-accords-before-2027",
+    "pcd": 0.11499999999999999,
+    "sum_prices": 1.115,
+    "dutch_book_pct": 0.11499999999999999,
+    "n_markets": 5,
+    "total_vol": 348154.778315,
+    "is_partition": false
+  },
+  {
+    "slug": "will-us-withdraw-from-nato-before-2027",
+    "pcd": -0.8055,
+    "sum_prices": 0.1945,
+    "dutch_book_pct": 0.8055,
+    "n_markets": 2,
+    "total_vol": 276350.9226689999,
+    "is_partition": false
+  },
+  {
+    "slug": "metamask-fdv-above-one-day-after-launch",
+    "pcd": -0.032500000000000084,
+    "sum_prices": 0.9674999999999999,
+    "dutch_book_pct": 0.032500000000000084,
+    "n_markets": 6,
+    "total_vol": 2812694.238525002,
+    "is_partition": false
+  },
+  {
+    "slug": "foreign-intervention-in-gaza-by",
+    "pcd": -0.62,
+    "sum_prices": 0.38,
+    "dutch_book_pct": 0.62,
+    "n_markets": 2,
+    "total_vol": 421998.23152299965,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-trump-meet-with-in-2026",
+    "pcd": 0.023500000000000076,
+    "sum_prices": 1.0235,
+    "dutch_book_pct": 0.023500000000000076,
+    "n_markets": 3,
+    "total_vol": 232464.96233999994,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-leave-trump-administration-before-2027",
+    "pcd": 1.295,
+    "sum_prices": 2.295,
+    "dutch_book_pct": 1.295,
+    "n_markets": 6,
+    "total_vol": 374945.9340490004,
+    "is_partition": false
+  },
+  {
+    "slug": "which-countries-will-trump-make-new-trade-deals-with-before-2027-921",
+    "pcd": -0.11649999999999994,
+    "sum_prices": 0.8835000000000001,
+    "dutch_book_pct": 0.11649999999999994,
+    "n_markets": 5,
+    "total_vol": 167890.77803400005,
+    "is_partition": false
+  },
+  {
+    "slug": "consensys-ipo-closing-market-cap-above",
+    "pcd": -0.16499999999999992,
+    "sum_prices": 0.8350000000000001,
+    "dutch_book_pct": 0.16499999999999992,
+    "n_markets": 3,
+    "total_vol": 314235.526537,
+    "is_partition": false
+  },
+  {
+    "slug": "where-will-zelenskyy-and-putin-meet-next",
+    "pcd": -0.04300000000000015,
+    "sum_prices": 0.9569999999999999,
+    "dutch_book_pct": 0.04300000000000015,
+    "n_markets": 13,
+    "total_vol": 1803325.3782579997,
+    "is_partition": false
+  },
+  {
+    "slug": "guinea-bissau-presidential-election",
+    "pcd": -0.1389999999999999,
+    "sum_prices": 0.8610000000000001,
+    "dutch_book_pct": 0.1389999999999999,
+    "n_markets": 12,
+    "total_vol": 282769.2082630005,
+    "is_partition": true
+  },
+  {
+    "slug": "guinea-bissau-national-peoples-assembly-election-winner",
+    "pcd": -0.2985,
+    "sum_prices": 0.7015,
+    "dutch_book_pct": 0.2985,
+    "n_markets": 6,
+    "total_vol": 114550.23697700005,
+    "is_partition": true
+  },
+  {
+    "slug": "fed-decision-in-april",
+    "pcd": 0.0004999999999999449,
+    "sum_prices": 1.0005,
+    "dutch_book_pct": 0.0004999999999999449,
+    "n_markets": 4,
+    "total_vol": 44168795.04535358,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-cod11-mal3-2025-11-15",
+    "pcd": 3.0,
+    "sum_prices": 4.0,
+    "dutch_book_pct": 3.0,
+    "n_markets": 8,
+    "total_vol": 468615.24493300007,
+    "is_partition": false
+  },
+  {
+    "slug": "which-cities-will-waymo-launch-in-by-june-30",
+    "pcd": 2.3185000000000002,
+    "sum_prices": 3.3185000000000002,
+    "dutch_book_pct": 2.3185000000000002,
+    "n_markets": 7,
+    "total_vol": 182751.56293600006,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
+    "pcd": -0.14649999999999996,
+    "sum_prices": 0.8535,
+    "dutch_book_pct": 0.14649999999999996,
+    "n_markets": 7,
+    "total_vol": 123488.34985699994,
+    "is_partition": false
+  },
+  {
+    "slug": "standx-fdv-above-one-day-after-launch",
+    "pcd": -0.05300000000000005,
+    "sum_prices": 0.947,
+    "dutch_book_pct": 0.05300000000000005,
+    "n_markets": 9,
+    "total_vol": 1284290.840938,
+    "is_partition": false
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "pcd": 0.010000000000000009,
+    "sum_prices": 1.01,
+    "dutch_book_pct": 0.010000000000000009,
+    "n_markets": 8,
+    "total_vol": 1481033.847274,
+    "is_partition": false
+  },
+  {
+    "slug": "ipos-before-2027",
+    "pcd": 7.1495,
+    "sum_prices": 8.1495,
+    "dutch_book_pct": 7.1495,
+    "n_markets": 29,
+    "total_vol": 5280236.084533995,
+    "is_partition": false
+  },
+  {
+    "slug": "richest-person-on-december-31-2026",
+    "pcd": 0.009500000000000064,
+    "sum_prices": 1.0095,
+    "dutch_book_pct": 0.009500000000000064,
+    "n_markets": 10,
+    "total_vol": 1426082.3976260005,
+    "is_partition": false
+  },
+  {
+    "slug": "how-high-will-10-year-treasury-yield-go-before-2027",
+    "pcd": 1.065,
+    "sum_prices": 2.065,
+    "dutch_book_pct": 1.065,
+    "n_markets": 4,
+    "total_vol": 147067.778348,
+    "is_partition": false
+  },
+  {
+    "slug": "how-low-will-10-year-treasury-yield-get-before-2027",
+    "pcd": 0.7490000000000001,
+    "sum_prices": 1.749,
+    "dutch_book_pct": 0.7490000000000001,
+    "n_markets": 5,
+    "total_vol": 175550.80334100005,
+    "is_partition": false
+  },
+  {
+    "slug": "israel-and-indonesia-normalize-relations-by",
+    "pcd": -0.8445,
+    "sum_prices": 0.1555,
+    "dutch_book_pct": 0.8445,
+    "n_markets": 2,
+    "total_vol": 600523.4810040004,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-grossing-movie-in-2026",
+    "pcd": 0.015499999999999847,
+    "sum_prices": 1.0154999999999998,
+    "dutch_book_pct": 0.015499999999999847,
+    "n_markets": 14,
+    "total_vol": 2747444.6469499995,
+    "is_partition": false
+  },
+  {
+    "slug": "which-movie-has-biggest-opening-weekend-in-2026",
+    "pcd": 0.008499999999999952,
+    "sum_prices": 1.0085,
+    "dutch_book_pct": 0.008499999999999952,
+    "n_markets": 9,
+    "total_vol": 1363368.5658439996,
+    "is_partition": false
+  },
+  {
+    "slug": "where-will-2026-rank-among-the-hottest-years-on-record",
+    "pcd": 0.0020000000000000018,
+    "sum_prices": 1.002,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 6,
+    "total_vol": 2407457.417247005,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-different-countries-will-israel-strike-in-2026",
+    "pcd": 0.03550000000000009,
+    "sum_prices": 1.0355,
+    "dutch_book_pct": 0.03550000000000009,
+    "n_markets": 13,
+    "total_vol": 6300081.014864,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-different-countries-will-the-us-strike-in-2026",
+    "pcd": -0.753,
+    "sum_prices": 0.247,
+    "dutch_book_pct": 0.753,
+    "n_markets": 4,
+    "total_vol": 668329.20793,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-seoul-mayoral-election-winner",
+    "pcd": 0.005999999999999783,
+    "sum_prices": 1.0059999999999998,
+    "dutch_book_pct": 0.005999999999999783,
+    "n_markets": 14,
+    "total_vol": 10544678.070408018,
+    "is_partition": true
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "pcd": 0.004999999999999893,
+    "sum_prices": 1.005,
+    "dutch_book_pct": 0.004999999999999893,
+    "n_markets": 36,
+    "total_vol": 26578300.54059005,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-busan-mayoral-election-winner",
+    "pcd": -0.0595,
+    "sum_prices": 0.9405,
+    "dutch_book_pct": 0.0595,
+    "n_markets": 5,
+    "total_vol": 311476.305836,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-gyeonggi-province-gubernatorial-election-winner",
+    "pcd": 0.018999999999999906,
+    "sum_prices": 1.019,
+    "dutch_book_pct": 0.018999999999999906,
+    "n_markets": 14,
+    "total_vol": 2793987.4313470004,
+    "is_partition": true
+  },
+  {
+    "slug": "georgia-republican-senate-primary-winner",
+    "pcd": -0.8029999999999999,
+    "sum_prices": 0.197,
+    "dutch_book_pct": 0.8029999999999999,
+    "n_markets": 2,
+    "total_vol": 471764.2687700001,
+    "is_partition": true
+  },
+  {
+    "slug": "alabama-republican-senate-primary-winner",
+    "pcd": -0.1735000000000001,
+    "sum_prices": 0.8264999999999999,
+    "dutch_book_pct": 0.1735000000000001,
+    "n_markets": 2,
+    "total_vol": 34122.31261099999,
+    "is_partition": true
+  },
+  {
+    "slug": "how-high-will-inflation-get-in-2026",
+    "pcd": 1.7475,
+    "sum_prices": 2.7475,
+    "dutch_book_pct": 1.7475,
+    "n_markets": 6,
+    "total_vol": 365051.280811999,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "pcd": 0.02100000000000013,
+    "sum_prices": 1.0210000000000001,
+    "dutch_book_pct": 0.02100000000000013,
+    "n_markets": 14,
+    "total_vol": 4133249.645549,
+    "is_partition": false
+  },
+  {
+    "slug": "incheon-mayoral-election-winner",
+    "pcd": 0.00649999999999995,
+    "sum_prices": 1.0065,
+    "dutch_book_pct": 0.00649999999999995,
+    "n_markets": 9,
+    "total_vol": 2423158.4741669986,
+    "is_partition": true
+  },
+  {
+    "slug": "chungcheongnam-province-governor-election-winner",
+    "pcd": -0.0044999999999999485,
+    "sum_prices": 0.9955,
+    "dutch_book_pct": 0.0044999999999999485,
+    "n_markets": 5,
+    "total_vol": 615491.500923,
+    "is_partition": true
+  },
+  {
+    "slug": "gangwon-province-governor-election-winner",
+    "pcd": 0.010499999999999954,
+    "sum_prices": 1.0105,
+    "dutch_book_pct": 0.010499999999999954,
+    "n_markets": 9,
+    "total_vol": 334712.0534699999,
+    "is_partition": true
+  },
+  {
+    "slug": "which-ceos-will-be-out-before-2027",
+    "pcd": 0.18500000000000005,
+    "sum_prices": 1.185,
+    "dutch_book_pct": 0.18500000000000005,
+    "n_markets": 6,
+    "total_vol": 545150.404815999,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-trump-pardon-before-2027",
+    "pcd": -0.5815,
+    "sum_prices": 0.4185,
+    "dutch_book_pct": 0.5815,
+    "n_markets": 4,
+    "total_vol": 114209.08086900003,
+    "is_partition": false
+  },
+  {
+    "slug": "next-ceo-of-apple",
+    "pcd": -0.39049999999999996,
+    "sum_prices": 0.6095,
+    "dutch_book_pct": 0.39049999999999996,
+    "n_markets": 3,
+    "total_vol": 660408.7866349987,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-fed-rate-hit-before-2027",
+    "pcd": 1.2645,
+    "sum_prices": 2.2645,
+    "dutch_book_pct": 1.2645,
+    "n_markets": 16,
+    "total_vol": 1256768.046093998,
+    "is_partition": false
+  },
+  {
+    "slug": "hyperbeat-fdv-above-one-day-after-launch",
+    "pcd": -0.692,
+    "sum_prices": 0.30800000000000005,
+    "dutch_book_pct": 0.692,
+    "n_markets": 4,
+    "total_vol": 204513.53333199982,
+    "is_partition": false
+  },
+  {
+    "slug": "usdai-fdv-above-one-day-after-launch",
+    "pcd": 1.4335,
+    "sum_prices": 2.4335,
+    "dutch_book_pct": 1.4335,
+    "n_markets": 12,
+    "total_vol": 2487721.723316997,
+    "is_partition": false
+  },
+  {
+    "slug": "will-pacifica-launch-a-token-by",
+    "pcd": -0.25550000000000006,
+    "sum_prices": 0.7444999999999999,
+    "dutch_book_pct": 0.25550000000000006,
+    "n_markets": 3,
+    "total_vol": 155733.352629,
+    "is_partition": false
+  },
+  {
+    "slug": "kraken-ipo-closing-market-cap-above",
+    "pcd": 0.69,
+    "sum_prices": 1.69,
+    "dutch_book_pct": 0.69,
+    "n_markets": 6,
+    "total_vol": 100913.15874099999,
+    "is_partition": false
+  },
+  {
+    "slug": "will-polymarket-mindshare-hit-70",
+    "pcd": -0.9825,
+    "sum_prices": 0.0175,
+    "dutch_book_pct": 0.9825,
+    "n_markets": 2,
+    "total_vol": 1835632.5893850045,
+    "is_partition": false
+  },
+  {
+    "slug": "ct-creator-mindshare-ath-by-march-31-2026",
+    "pcd": -0.8454999999999999,
+    "sum_prices": 0.15450000000000003,
+    "dutch_book_pct": 0.8454999999999999,
+    "n_markets": 4,
+    "total_vol": 123855.92892200008,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-announce-presidential-run-before-2027",
+    "pcd": -0.002000000000000113,
+    "sum_prices": 0.9979999999999999,
+    "dutch_book_pct": 0.002000000000000113,
+    "n_markets": 12,
+    "total_vol": 218868.93497600008,
+    "is_partition": true
+  },
+  {
+    "slug": "which-countries-will-recognize-israel-by-june-30",
+    "pcd": -0.845,
+    "sum_prices": 0.155,
+    "dutch_book_pct": 0.845,
+    "n_markets": 3,
+    "total_vol": 109189.88133299997,
+    "is_partition": false
+  },
+  {
+    "slug": "lol-lck-2026-season-winner",
+    "pcd": 0.02400000000000002,
+    "sum_prices": 1.024,
+    "dutch_book_pct": 0.02400000000000002,
+    "n_markets": 10,
+    "total_vol": 2759904.009303998,
+    "is_partition": true
+  },
+  {
+    "slug": "lol-lpl-2026-season-winner",
+    "pcd": 0.019500000000000073,
+    "sum_prices": 1.0195,
+    "dutch_book_pct": 0.019500000000000073,
+    "n_markets": 13,
+    "total_vol": 702130.5779000001,
+    "is_partition": true
+  },
+  {
+    "slug": "which-companies-announce-bankruptcy-before-2027",
+    "pcd": -0.8585,
+    "sum_prices": 0.14150000000000001,
+    "dutch_book_pct": 0.8585,
+    "n_markets": 2,
+    "total_vol": 62193.954905000035,
+    "is_partition": false
+  },
+  {
+    "slug": "which-companies-will-be-acquired-before-2027",
+    "pcd": 2.349500000000001,
+    "sum_prices": 3.349500000000001,
+    "dutch_book_pct": 2.349500000000001,
+    "n_markets": 14,
+    "total_vol": 17294084.013725035,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-be-the-democratic-nominee-for-ny-12",
+    "pcd": -0.977,
+    "sum_prices": 0.023,
+    "dutch_book_pct": 0.977,
+    "n_markets": 2,
+    "total_vol": 59600.327269,
+    "is_partition": true
+  },
+  {
+    "slug": "who-will-place-first-in-the-primary-for-nancy-pelosis-congressional-seat-ca-11",
+    "pcd": -0.01649999999999996,
+    "sum_prices": 0.9835,
+    "dutch_book_pct": 0.01649999999999996,
+    "n_markets": 6,
+    "total_vol": 321674.05839499994,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "pcd": 4.447,
+    "sum_prices": 5.447,
+    "dutch_book_pct": 4.447,
+    "n_markets": 27,
+    "total_vol": 28709872.43849093,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-before-2027",
+    "pcd": 1.4865,
+    "sum_prices": 2.4865,
+    "dutch_book_pct": 1.4865,
+    "n_markets": 14,
+    "total_vol": 3832719.846176,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-solana-hit-before-2027",
+    "pcd": 1.6600000000000001,
+    "sum_prices": 2.66,
+    "dutch_book_pct": 1.6600000000000001,
+    "n_markets": 13,
+    "total_vol": 555893.262986,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-dogecoin-hit-before-2027",
+    "pcd": 0.09250000000000003,
+    "sum_prices": 1.0925,
+    "dutch_book_pct": 0.09250000000000003,
+    "n_markets": 2,
+    "total_vol": 59671.984974,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-hyperliquid-hit-before-2027",
+    "pcd": 1.6505,
+    "sum_prices": 2.6505,
+    "dutch_book_pct": 1.6505,
+    "n_markets": 9,
+    "total_vol": 595539.1615189997,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-bnb-hit-before-2027",
+    "pcd": 0.03500000000000014,
+    "sum_prices": 1.0350000000000001,
+    "dutch_book_pct": 0.03500000000000014,
+    "n_markets": 2,
+    "total_vol": 59494.345258999965,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-ethena-hit-before-2027",
+    "pcd": 0.20999999999999996,
+    "sum_prices": 1.21,
+    "dutch_book_pct": 0.20999999999999996,
+    "n_markets": 2,
+    "total_vol": 121182.708405,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-zcash-hit-before-2027",
+    "pcd": -0.25,
+    "sum_prices": 0.75,
+    "dutch_book_pct": 0.25,
+    "n_markets": 3,
+    "total_vol": 161086.74526700002,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-pumpfun-hit-before-2027",
+    "pcd": -0.19500000000000006,
+    "sum_prices": 0.8049999999999999,
+    "dutch_book_pct": 0.19500000000000006,
+    "n_markets": 2,
+    "total_vol": 65930.21201199997,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-win-the-2026-democratic-dc-mayoral-primary",
+    "pcd": -0.6535,
+    "sum_prices": 0.34650000000000003,
+    "dutch_book_pct": 0.6535,
+    "n_markets": 4,
+    "total_vol": 93010.92994000003,
+    "is_partition": true
+  },
+  {
+    "slug": "ny-07-democratic-primary-winner",
+    "pcd": -0.9835,
+    "sum_prices": 0.0165,
+    "dutch_book_pct": 0.9835,
+    "n_markets": 2,
+    "total_vol": 46483.860562,
+    "is_partition": true
+  },
+  {
+    "slug": "who-will-be-the-democratic-nominee-for-ny-17",
+    "pcd": -0.26,
+    "sum_prices": 0.74,
+    "dutch_book_pct": 0.26,
+    "n_markets": 2,
+    "total_vol": 47018.33188900002,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-south-korean-local-elections-party-winner",
+    "pcd": -0.0035000000000001696,
+    "sum_prices": 0.9964999999999998,
+    "dutch_book_pct": 0.0035000000000001696,
+    "n_markets": 5,
+    "total_vol": 2068321.481971,
+    "is_partition": true
+  },
+  {
+    "slug": "will-tempo-launch-a-token-by",
+    "pcd": -0.20999999999999996,
+    "sum_prices": 0.79,
+    "dutch_book_pct": 0.20999999999999996,
+    "n_markets": 3,
+    "total_vol": 744378.3419560003,
+    "is_partition": false
+  },
+  {
+    "slug": "ostium-fdv-above-one-day-after-launch",
+    "pcd": -0.8295,
+    "sum_prices": 0.1705,
+    "dutch_book_pct": 0.8295,
+    "n_markets": 3,
+    "total_vol": 38242.488122,
+    "is_partition": false
+  },
+  {
+    "slug": "az-01-republican-primary-winner",
+    "pcd": -0.9825,
+    "sum_prices": 0.017499999999999998,
+    "dutch_book_pct": 0.9825,
+    "n_markets": 2,
+    "total_vol": 268811.152535,
+    "is_partition": true
+  },
+  {
+    "slug": "republican-nominee-for-florida-governor",
+    "pcd": 0.0004999999999999449,
+    "sum_prices": 1.0005,
+    "dutch_book_pct": 0.0004999999999999449,
+    "n_markets": 7,
+    "total_vol": 1202828.9873060002,
+    "is_partition": true
+  },
+  {
+    "slug": "reya-fdv-above-one-day-after-launch",
+    "pcd": -0.5874999999999999,
+    "sum_prices": 0.41250000000000003,
+    "dutch_book_pct": 0.5874999999999999,
+    "n_markets": 5,
+    "total_vol": 350306.7666239999,
+    "is_partition": false
+  },
+  {
+    "slug": "ga-14-special-election-winner",
+    "pcd": 0.0004999999999999449,
+    "sum_prices": 1.0005,
+    "dutch_book_pct": 0.0004999999999999449,
+    "n_markets": 2,
+    "total_vol": 176197.598455,
+    "is_partition": true
+  },
+  {
+    "slug": "will-theo-launch-a-token-by",
+    "pcd": 0.45500000000000007,
+    "sum_prices": 1.455,
+    "dutch_book_pct": 0.45500000000000007,
+    "n_markets": 2,
+    "total_vol": 194679.958877,
+    "is_partition": false
+  },
+  {
+    "slug": "will-solstice-launch-a-token-by",
+    "pcd": 1.718,
+    "sum_prices": 2.718,
+    "dutch_book_pct": 1.718,
+    "n_markets": 3,
+    "total_vol": 248892.6267810001,
+    "is_partition": false
+  },
+  {
+    "slug": "virginia-republican-senate-primary-winner",
+    "pcd": -0.5489999999999999,
+    "sum_prices": 0.451,
+    "dutch_book_pct": 0.5489999999999999,
+    "n_markets": 6,
+    "total_vol": 2356900.3867830005,
+    "is_partition": true
+  },
+  {
+    "slug": "turnout-in-2025-honduran-general-election",
+    "pcd": -0.18000000000000005,
+    "sum_prices": 0.82,
+    "dutch_book_pct": 0.18000000000000005,
+    "n_markets": 3,
+    "total_vol": 1603151.1023629995,
+    "is_partition": false
+  },
+  {
+    "slug": "theo-fdv-above-one-day-after-launch",
+    "pcd": -0.345,
+    "sum_prices": 0.655,
+    "dutch_book_pct": 0.345,
+    "n_markets": 2,
+    "total_vol": 39758.52436499999,
+    "is_partition": false
+  },
+  {
+    "slug": "pacifica-fdv-above-one-day-after-launch",
+    "pcd": -0.7305,
+    "sum_prices": 0.26949999999999996,
+    "dutch_book_pct": 0.7305,
+    "n_markets": 4,
+    "total_vol": 48033.04752600002,
+    "is_partition": false
+  },
+  {
+    "slug": "extended-fdv-above-one-day-after-launch",
+    "pcd": 0.3275000000000001,
+    "sum_prices": 1.3275000000000001,
+    "dutch_book_pct": 0.3275000000000001,
+    "n_markets": 7,
+    "total_vol": 1726050.1871270011,
+    "is_partition": false
+  },
+  {
+    "slug": "felix-fdv-above-one-day-after-launch",
+    "pcd": 0.1855,
+    "sum_prices": 1.1855,
+    "dutch_book_pct": 0.1855,
+    "n_markets": 5,
+    "total_vol": 201048.25062699988,
+    "is_partition": false
+  },
+  {
+    "slug": "measles-cases-in-us-in-2026",
+    "pcd": 2.415,
+    "sum_prices": 3.415,
+    "dutch_book_pct": 2.415,
+    "n_markets": 7,
+    "total_vol": 7495841.397332032,
+    "is_partition": false
+  },
+  {
+    "slug": "which-states-will-donald-trump-visit-in-2026",
+    "pcd": 0.44300000000000006,
+    "sum_prices": 1.443,
+    "dutch_book_pct": 0.44300000000000006,
+    "n_markets": 3,
+    "total_vol": 98085.245251,
+    "is_partition": false
+  },
+  {
+    "slug": "will-fomofamily-launch-a-token-by",
+    "pcd": -0.75,
+    "sum_prices": 0.25,
+    "dutch_book_pct": 0.75,
+    "n_markets": 2,
+    "total_vol": 584719.5733189998,
+    "is_partition": false
+  },
+  {
+    "slug": "kentucky-republican-senate-primary-winner",
+    "pcd": -0.755,
+    "sum_prices": 0.24500000000000002,
+    "dutch_book_pct": 0.755,
+    "n_markets": 3,
+    "total_vol": 73900.811819,
+    "is_partition": true
+  },
+  {
+    "slug": "quebec-general-election-winner",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 6,
+    "total_vol": 381296.39671699994,
+    "is_partition": true
+  },
+  {
+    "slug": "ky-04-republican-primary-winner",
+    "pcd": -0.014499999999999957,
+    "sum_prices": 0.9855,
+    "dutch_book_pct": 0.014499999999999957,
+    "n_markets": 2,
+    "total_vol": 130496.34769599992,
+    "is_partition": true
+  },
+  {
+    "slug": "berlin-state-election-winner",
+    "pcd": -0.121,
+    "sum_prices": 0.879,
+    "dutch_book_pct": 0.121,
+    "n_markets": 5,
+    "total_vol": 2526337.4193709926,
+    "is_partition": true
+  },
+  {
+    "slug": "florida-democratic-senate-primary-winner",
+    "pcd": -0.07599999999999996,
+    "sum_prices": 0.924,
+    "dutch_book_pct": 0.07599999999999996,
+    "n_markets": 2,
+    "total_vol": 80961.67151500002,
+    "is_partition": true
+  },
+  {
+    "slug": "central-african-republic-national-assembly-election-winner",
+    "pcd": 0.03749999999999987,
+    "sum_prices": 1.0374999999999999,
+    "dutch_book_pct": 0.03749999999999987,
+    "n_markets": 3,
+    "total_vol": 84057.62389199976,
+    "is_partition": true
+  },
+  {
+    "slug": "pedro-snchez-out-as-pm-of-spain-by",
+    "pcd": -0.69,
+    "sum_prices": 0.31,
+    "dutch_book_pct": 0.69,
+    "n_markets": 2,
+    "total_vol": 101814.15275200004,
+    "is_partition": false
+  },
+  {
+    "slug": "sweden-parliamentary-election-winner",
+    "pcd": 0.010000000000000009,
+    "sum_prices": 1.01,
+    "dutch_book_pct": 0.010000000000000009,
+    "n_markets": 9,
+    "total_vol": 1047018.063825,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-taiwanese-local-elections-party-winner",
+    "pcd": -0.0605,
+    "sum_prices": 0.9395,
+    "dutch_book_pct": 0.0605,
+    "n_markets": 3,
+    "total_vol": 52257.14575300001,
+    "is_partition": true
+  },
+  {
+    "slug": "how-many-7pt0-or-above-earthquakes-by-june-30",
+    "pcd": -0.04699999999999993,
+    "sum_prices": 0.9530000000000001,
+    "dutch_book_pct": 0.04699999999999993,
+    "n_markets": 4,
+    "total_vol": 1763289.7509040004,
+    "is_partition": false
+  },
+  {
+    "slug": "nebraska-governor-republican-primary-winner",
+    "pcd": -0.0625,
+    "sum_prices": 0.9375,
+    "dutch_book_pct": 0.0625,
+    "n_markets": 2,
+    "total_vol": 57869.540039000014,
+    "is_partition": true
+  },
+  {
+    "slug": "new-mexico-governor-republican-primary-winner",
+    "pcd": -0.42499999999999993,
+    "sum_prices": 0.5750000000000001,
+    "dutch_book_pct": 0.42499999999999993,
+    "n_markets": 2,
+    "total_vol": 761567.1848059999,
+    "is_partition": true
+  },
+  {
+    "slug": "new-york-governor-republican-primary-winner",
+    "pcd": -0.03700000000000003,
+    "sum_prices": 0.963,
+    "dutch_book_pct": 0.03700000000000003,
+    "n_markets": 2,
+    "total_vol": 37108.574785000004,
+    "is_partition": true
+  },
+  {
+    "slug": "oklahoma-governor-republican-primary-winner",
+    "pcd": -0.535,
+    "sum_prices": 0.46499999999999997,
+    "dutch_book_pct": 0.535,
+    "n_markets": 2,
+    "total_vol": 224546.05802800006,
+    "is_partition": true
+  },
+  {
+    "slug": "who-will-advance-from-the-california-governor-primary",
+    "pcd": 1.2554999999999996,
+    "sum_prices": 2.2554999999999996,
+    "dutch_book_pct": 1.2554999999999996,
+    "n_markets": 14,
+    "total_vol": 376836.528201,
+    "is_partition": false
+  },
+  {
+    "slug": "colorado-governor-republican-primary-winner",
+    "pcd": -0.69,
+    "sum_prices": 0.31,
+    "dutch_book_pct": 0.69,
+    "n_markets": 2,
+    "total_vol": 44381.365542000014,
+    "is_partition": true
+  },
+  {
+    "slug": "ohio-governor-republican-primary-winner",
+    "pcd": -0.0015000000000000568,
+    "sum_prices": 0.9984999999999999,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 3,
+    "total_vol": 969310.8348520003,
+    "is_partition": true
+  },
+  {
+    "slug": "georgia-governor-republican-primary-winner",
+    "pcd": -0.5355,
+    "sum_prices": 0.4645,
+    "dutch_book_pct": 0.5355,
+    "n_markets": 4,
+    "total_vol": 332826.83346,
+    "is_partition": true
+  },
+  {
+    "slug": "georgia-governor-democratic-primary-winner",
+    "pcd": -0.20650000000000013,
+    "sum_prices": 0.7934999999999999,
+    "dutch_book_pct": 0.20650000000000013,
+    "n_markets": 3,
+    "total_vol": 89705.19336199999,
+    "is_partition": true
+  },
+  {
+    "slug": "fifa-world-cup-group-c-winner",
+    "pcd": 0.012499999999999956,
+    "sum_prices": 1.0125,
+    "dutch_book_pct": 0.012499999999999956,
+    "n_markets": 4,
+    "total_vol": 68296.32558500001,
+    "is_partition": true
+  },
+  {
+    "slug": "fifa-world-cup-group-f-winner",
+    "pcd": -0.1389999999999999,
+    "sum_prices": 0.8610000000000001,
+    "dutch_book_pct": 0.1389999999999999,
+    "n_markets": 3,
+    "total_vol": 32879.761449,
+    "is_partition": true
+  },
+  {
+    "slug": "fifa-world-cup-group-i-winner",
+    "pcd": -0.18800000000000006,
+    "sum_prices": 0.8119999999999999,
+    "dutch_book_pct": 0.18800000000000006,
+    "n_markets": 3,
+    "total_vol": 74067.729696,
+    "is_partition": true
+  },
+  {
+    "slug": "which-continent-will-win-the-2026-fifa-world-cup",
+    "pcd": 0.0129999999999999,
+    "sum_prices": 1.013,
+    "dutch_book_pct": 0.0129999999999999,
+    "n_markets": 6,
+    "total_vol": 1506332.8508910001,
+    "is_partition": true
+  },
+  {
+    "slug": "eurovision-winner-2026",
+    "pcd": 0.012499999999999956,
+    "sum_prices": 1.0125,
+    "dutch_book_pct": 0.012499999999999956,
+    "n_markets": 35,
+    "total_vol": 55578748.70774392,
+    "is_partition": true
+  },
+  {
+    "slug": "spacex-ipo-closing-market-cap-lowest-strikes",
+    "pcd": -0.007999999999999896,
+    "sum_prices": 0.9920000000000001,
+    "dutch_book_pct": 0.007999999999999896,
+    "n_markets": 8,
+    "total_vol": 2934630.328337999,
+    "is_partition": false
+  },
+  {
+    "slug": "elc-por-ips-2026-01-04",
+    "pcd": 0.3700000000000001,
+    "sum_prices": 1.37,
+    "dutch_book_pct": 0.3700000000000001,
+    "n_markets": 3,
+    "total_vol": 217832.54872999998,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-close-warner-bros-acquisition",
+    "pcd": -0.024500000000000077,
+    "sum_prices": 0.9754999999999999,
+    "dutch_book_pct": 0.024500000000000077,
+    "n_markets": 4,
+    "total_vol": 968589.8628199997,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-petr-yan-fight-next-before-2027",
+    "pcd": -0.026000000000000023,
+    "sum_prices": 0.974,
+    "dutch_book_pct": 0.026000000000000023,
+    "n_markets": 5,
+    "total_vol": 130236.15029000005,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-f1-drivers-champion",
+    "pcd": 0.0019999999999997797,
+    "sum_prices": 1.0019999999999998,
+    "dutch_book_pct": 0.0019999999999997797,
+    "n_markets": 22,
+    "total_vol": 73365045.63479374,
+    "is_partition": true
+  },
+  {
+    "slug": "f1-constructors-champion",
+    "pcd": 0.010500000000000176,
+    "sum_prices": 1.0105000000000002,
+    "dutch_book_pct": 0.010500000000000176,
+    "n_markets": 11,
+    "total_vol": 9226420.642241001,
+    "is_partition": true
+  },
+  {
+    "slug": "gensyn-fdv-above-one-day-after-launch",
+    "pcd": 0.13350000000000017,
+    "sum_prices": 1.1335000000000002,
+    "dutch_book_pct": 0.13350000000000017,
+    "n_markets": 7,
+    "total_vol": 1100138.5278949996,
+    "is_partition": false
+  },
+  {
+    "slug": "fed-decision-in-june-825",
+    "pcd": 0.007500000000000062,
+    "sum_prices": 1.0075,
+    "dutch_book_pct": 0.007500000000000062,
+    "n_markets": 5,
+    "total_vol": 5222387.8587550055,
+    "is_partition": false
+  },
+  {
+    "slug": "tennessee-governor-democratic-primary-winner",
+    "pcd": -0.13150000000000006,
+    "sum_prices": 0.8684999999999999,
+    "dutch_book_pct": 0.13150000000000006,
+    "n_markets": 2,
+    "total_vol": 37631.972402000254,
+    "is_partition": true
+  },
+  {
+    "slug": "maryland-governor-republican-primary-winner",
+    "pcd": -0.023499999999999965,
+    "sum_prices": 0.9765,
+    "dutch_book_pct": 0.023499999999999965,
+    "n_markets": 5,
+    "total_vol": 533260.507705,
+    "is_partition": true
+  },
+  {
+    "slug": "wisconsin-governor-republican-primary-winner",
+    "pcd": -0.9845,
+    "sum_prices": 0.0155,
+    "dutch_book_pct": 0.9845,
+    "n_markets": 2,
+    "total_vol": 51949.318732,
+    "is_partition": true
+  },
+  {
+    "slug": "how-many-republican-governors-after-the-2026-midterm-elections",
+    "pcd": -0.5645,
+    "sum_prices": 0.4355,
+    "dutch_book_pct": 0.5645,
+    "n_markets": 3,
+    "total_vol": 587783.8454420001,
+    "is_partition": false
+  },
+  {
+    "slug": "minnesota-governor-republican-primary-winner",
+    "pcd": -0.11049999999999993,
+    "sum_prices": 0.8895000000000001,
+    "dutch_book_pct": 0.11049999999999993,
+    "n_markets": 5,
+    "total_vol": 258890.35115800003,
+    "is_partition": true
+  },
+  {
+    "slug": "who-will-advance-from-the-alaska-governor-primary",
+    "pcd": 0.3500000000000001,
+    "sum_prices": 1.35,
+    "dutch_book_pct": 0.3500000000000001,
+    "n_markets": 4,
+    "total_vol": 89935.452231,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-republican-house-members-not-running-in-2026",
+    "pcd": -0.9035,
+    "sum_prices": 0.0965,
+    "dutch_book_pct": 0.9035,
+    "n_markets": 2,
+    "total_vol": 39980.01056000001,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-republican-senators-not-running-in-2026",
+    "pcd": -0.763,
+    "sum_prices": 0.237,
+    "dutch_book_pct": 0.763,
+    "n_markets": 3,
+    "total_vol": 59777.253683999996,
+    "is_partition": false
+  },
+  {
+    "slug": "turnout-in-2025-honduran-general-election-smaller-brackets",
+    "pcd": -0.121,
+    "sum_prices": 0.879,
+    "dutch_book_pct": 0.121,
+    "n_markets": 3,
+    "total_vol": 80610.09066600002,
+    "is_partition": false
+  },
+  {
+    "slug": "spacex-ipo-closing-market-cap-above",
+    "pcd": 4.25,
+    "sum_prices": 5.25,
+    "dutch_book_pct": 4.25,
+    "n_markets": 9,
+    "total_vol": 936103.8953369999,
+    "is_partition": false
+  },
+  {
+    "slug": "solstice-fdv-above-one-day-after-launch",
+    "pcd": -0.019000000000000017,
+    "sum_prices": 0.981,
+    "dutch_book_pct": 0.019000000000000017,
+    "n_markets": 5,
+    "total_vol": 438108.29776599945,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-spacex-starship-launches-reach-space-in-2026",
+    "pcd": 0.01649999999999996,
+    "sum_prices": 1.0165,
+    "dutch_book_pct": 0.01649999999999996,
+    "n_markets": 5,
+    "total_vol": 387956.1073759999,
+    "is_partition": false
+  },
+  {
+    "slug": "republican-house-seats-after-the-2026-midterm-elections",
+    "pcd": -0.6459999999999999,
+    "sum_prices": 0.35400000000000004,
+    "dutch_book_pct": 0.6459999999999999,
+    "n_markets": 7,
+    "total_vol": 179915.00760399998,
+    "is_partition": false
+  },
+  {
+    "slug": "variational-fdv-above-one-day-after-launch",
+    "pcd": -0.22999999999999998,
+    "sum_prices": 0.77,
+    "dutch_book_pct": 0.22999999999999998,
+    "n_markets": 8,
+    "total_vol": 872705.0032490005,
+    "is_partition": false
+  },
+  {
+    "slug": "scotland-parliamentary-election-winner",
+    "pcd": -0.001000000000000223,
+    "sum_prices": 0.9989999999999998,
+    "dutch_book_pct": 0.001000000000000223,
+    "n_markets": 6,
+    "total_vol": 1590691.3538070002,
+    "is_partition": true
+  },
+  {
+    "slug": "what-will-spacexs-public-ticker-be",
+    "pcd": 0.0024999999999999467,
+    "sum_prices": 1.0025,
+    "dutch_book_pct": 0.0024999999999999467,
+    "n_markets": 9,
+    "total_vol": 4154935.4612200237,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+    "pcd": 3.005,
+    "sum_prices": 4.005,
+    "dutch_book_pct": 3.005,
+    "n_markets": 6,
+    "total_vol": 193052.27079100002,
+    "is_partition": false
+  },
+  {
+    "slug": "armenia-parliamentary-election-winner",
+    "pcd": -0.09500000000000008,
+    "sum_prices": 0.9049999999999999,
+    "dutch_book_pct": 0.09500000000000008,
+    "n_markets": 2,
+    "total_vol": 87235.89651000005,
+    "is_partition": true
+  },
+  {
+    "slug": "highest-temperature-in-atlanta-on-december-17",
+    "pcd": -0.0044999999999999485,
+    "sum_prices": 0.9955,
+    "dutch_book_pct": 0.0044999999999999485,
+    "n_markets": 2,
+    "total_vol": 102185.051167,
+    "is_partition": false
+  },
+  {
+    "slug": "octra-fdv-above-one-day-after-launch",
+    "pcd": -0.58,
+    "sum_prices": 0.42000000000000004,
+    "dutch_book_pct": 0.58,
+    "n_markets": 3,
+    "total_vol": 87439.88955499999,
+    "is_partition": false
+  },
+  {
+    "slug": "oregon-republican-senate-primary-winner",
+    "pcd": -0.3350000000000001,
+    "sum_prices": 0.6649999999999999,
+    "dutch_book_pct": 0.3350000000000001,
+    "n_markets": 3,
+    "total_vol": 44901.967730000004,
+    "is_partition": true
+  },
+  {
+    "slug": "will-daylight-launch-a-token-by-312",
+    "pcd": -0.09050000000000002,
+    "sum_prices": 0.9095,
+    "dutch_book_pct": 0.09050000000000002,
+    "n_markets": 3,
+    "total_vol": 155984.82045999993,
+    "is_partition": false
+  },
+  {
+    "slug": "republican-senate-seats-after-the-2026-midterm-elections-927",
+    "pcd": 0.06149999999999989,
+    "sum_prices": 1.0614999999999999,
+    "dutch_book_pct": 0.06149999999999989,
+    "n_markets": 11,
+    "total_vol": 2050475.8106129998,
+    "is_partition": false
+  },
+  {
+    "slug": "west-virginia-democratic-senate-primary-winner",
+    "pcd": -0.13,
+    "sum_prices": 0.87,
+    "dutch_book_pct": 0.13,
+    "n_markets": 2,
+    "total_vol": 30370.823431000073,
+    "is_partition": true
+  },
+  {
+    "slug": "peru-presidential-election-winner",
+    "pcd": 0.0020000000000000018,
+    "sum_prices": 1.002,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 23,
+    "total_vol": 4848206.643598999,
+    "is_partition": true
+  },
+  {
+    "slug": "hungary-parliamentary-election-winner",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 52745049.4140471,
+    "is_partition": true
+  },
+  {
+    "slug": "bitcoin-all-time-high-by",
+    "pcd": -0.7444999999999999,
+    "sum_prices": 0.2555,
+    "dutch_book_pct": 0.7444999999999999,
+    "n_markets": 3,
+    "total_vol": 5820072.881379993,
+    "is_partition": false
+  },
+  {
+    "slug": "fed-rate-cut-by-629",
+    "pcd": 1.0265,
+    "sum_prices": 2.0265,
+    "dutch_book_pct": 1.0265,
+    "n_markets": 6,
+    "total_vol": 1250186.1534350011,
+    "is_partition": false
+  },
+  {
+    "slug": "fed-decisions-jan-apr",
+    "pcd": -0.0030000000000000027,
+    "sum_prices": 0.997,
+    "dutch_book_pct": 0.0030000000000000027,
+    "n_markets": 3,
+    "total_vol": 376132.41660900007,
+    "is_partition": false
+  },
+  {
+    "slug": "bitcoin-vs-gold-vs-sp-500-in-2026",
+    "pcd": -0.02499999999999991,
+    "sum_prices": 0.9750000000000001,
+    "dutch_book_pct": 0.02499999999999991,
+    "n_markets": 3,
+    "total_vol": 723319.2982609989,
+    "is_partition": false
+  },
+  {
+    "slug": "ethereum-all-time-high-by",
+    "pcd": -0.735,
+    "sum_prices": 0.265,
+    "dutch_book_pct": 0.735,
+    "n_markets": 3,
+    "total_vol": 1888235.3892920027,
+    "is_partition": false
+  },
+  {
+    "slug": "west-bengal-legislative-assembly-election-winner",
+    "pcd": -0.0015000000000000568,
+    "sum_prices": 0.9984999999999999,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 2,
+    "total_vol": 144760.548473,
+    "is_partition": true
+  },
+  {
+    "slug": "solana-all-time-high-by",
+    "pcd": -0.847,
+    "sum_prices": 0.153,
+    "dutch_book_pct": 0.847,
+    "n_markets": 2,
+    "total_vol": 376598.419263,
+    "is_partition": false
+  },
+  {
+    "slug": "louisiana-republican-senate-primary-winner-889",
+    "pcd": -0.749,
+    "sum_prices": 0.251,
+    "dutch_book_pct": 0.749,
+    "n_markets": 2,
+    "total_vol": 57036.27254900004,
+    "is_partition": true
+  },
+  {
+    "slug": "louisiana-democratic-senate-primary-winner",
+    "pcd": -0.3055000000000001,
+    "sum_prices": 0.6944999999999999,
+    "dutch_book_pct": 0.3055000000000001,
+    "n_markets": 2,
+    "total_vol": 31088.107786999994,
+    "is_partition": true
+  },
+  {
+    "slug": "dota2-l1ga-wb-2025-12-24",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 108612.43304100001,
+    "is_partition": false
+  },
+  {
+    "slug": "parties-advancing-from-the-california-governor-primary",
+    "pcd": -0.08499999999999996,
+    "sum_prices": 0.915,
+    "dutch_book_pct": 0.08499999999999996,
+    "n_markets": 2,
+    "total_vol": 40118.20326099999,
+    "is_partition": false
+  },
+  {
+    "slug": "top-spotify-artist-2026",
+    "pcd": -0.018500000000000183,
+    "sum_prices": 0.9814999999999998,
+    "dutch_book_pct": 0.018500000000000183,
+    "n_markets": 10,
+    "total_vol": 1192184.9774789999,
+    "is_partition": false
+  },
+  {
+    "slug": "which-companies-will-have-a-1-ai-model-by-june-30",
+    "pcd": -0.4675,
+    "sum_prices": 0.5325,
+    "dutch_book_pct": 0.4675,
+    "n_markets": 4,
+    "total_vol": 1373550.47138,
+    "is_partition": false
+  },
+  {
+    "slug": "tamil-nadu-legislative-assembly-election-winner",
+    "pcd": 0.0050000000000001155,
+    "sum_prices": 1.0050000000000001,
+    "dutch_book_pct": 0.0050000000000001155,
+    "n_markets": 5,
+    "total_vol": 241571.70310900002,
+    "is_partition": true
+  },
+  {
+    "slug": "kerala-legislative-assembly-election-winner",
+    "pcd": -0.988,
+    "sum_prices": 0.012,
+    "dutch_book_pct": 0.988,
+    "n_markets": 3,
+    "total_vol": 87142.49400000002,
+    "is_partition": true
+  },
+  {
+    "slug": "puffpaw-fdv-above-one-day-after-launch",
+    "pcd": 0.24250000000000016,
+    "sum_prices": 1.2425000000000002,
+    "dutch_book_pct": 0.24250000000000016,
+    "n_markets": 5,
+    "total_vol": 5139673.525125124,
+    "is_partition": false
+  },
+  {
+    "slug": "us-gdp-growth-in-q1-2026",
+    "pcd": -0.07050000000000001,
+    "sum_prices": 0.9295,
+    "dutch_book_pct": 0.07050000000000001,
+    "n_markets": 6,
+    "total_vol": 225666.57692200004,
+    "is_partition": false
+  },
+  {
+    "slug": "which-cities-will-russia-enter-by-june-30",
+    "pcd": -0.09349999999999992,
+    "sum_prices": 0.9065000000000001,
+    "dutch_book_pct": 0.09349999999999992,
+    "n_markets": 8,
+    "total_vol": 898975.1167479998,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-ipl-champion",
+    "pcd": 0.06149999999999989,
+    "sum_prices": 1.0614999999999999,
+    "dutch_book_pct": 0.06149999999999989,
+    "n_markets": 10,
+    "total_vol": 180449.83927300008,
+    "is_partition": true
+  },
+  {
+    "slug": "which-artists-will-release-new-albums-in-2026",
+    "pcd": -0.30000000000000004,
+    "sum_prices": 0.7,
+    "dutch_book_pct": 0.30000000000000004,
+    "n_markets": 2,
+    "total_vol": 144856.241895,
+    "is_partition": false
+  },
+  {
+    "slug": "lead-bank-in-spacexs-ipo-836",
+    "pcd": -0.04000000000000015,
+    "sum_prices": 0.9599999999999999,
+    "dutch_book_pct": 0.04000000000000015,
+    "n_markets": 9,
+    "total_vol": 1243446.4777790022,
+    "is_partition": false
+  },
+  {
+    "slug": "gc-settle-jun-2026",
+    "pcd": 0.01649999999999996,
+    "sum_prices": 1.0165,
+    "dutch_book_pct": 0.01649999999999996,
+    "n_markets": 8,
+    "total_vol": 855460.8640920001,
+    "is_partition": false
+  },
+  {
+    "slug": "gc-hit-jun-2026",
+    "pcd": 0.4219999999999997,
+    "sum_prices": 1.4219999999999997,
+    "dutch_book_pct": 0.4219999999999997,
+    "n_markets": 13,
+    "total_vol": 3250022.0933079994,
+    "is_partition": false
+  },
+  {
+    "slug": "si-settle-jun-2026",
+    "pcd": -0.025500000000000078,
+    "sum_prices": 0.9744999999999999,
+    "dutch_book_pct": 0.025500000000000078,
+    "n_markets": 8,
+    "total_vol": 445555.0100229997,
+    "is_partition": false
+  },
+  {
+    "slug": "si-hit-jun-2026",
+    "pcd": 0.7739999999999998,
+    "sum_prices": 1.7739999999999998,
+    "dutch_book_pct": 0.7739999999999998,
+    "n_markets": 13,
+    "total_vol": 3281150.604039,
+    "is_partition": false
+  },
+  {
+    "slug": "si-over-under-jun-2026",
+    "pcd": 1.5779999999999998,
+    "sum_prices": 2.578,
+    "dutch_book_pct": 1.5779999999999998,
+    "n_markets": 7,
+    "total_vol": 180746.0437739999,
+    "is_partition": false
+  },
+  {
+    "slug": "cl-settle-jun-2026",
+    "pcd": -0.37,
+    "sum_prices": 0.63,
+    "dutch_book_pct": 0.37,
+    "n_markets": 2,
+    "total_vol": 64225.047756999964,
+    "is_partition": false
+  },
+  {
+    "slug": "cl-hit-jun-2026",
+    "pcd": 4.153499999999999,
+    "sum_prices": 5.153499999999999,
+    "dutch_book_pct": 4.153499999999999,
+    "n_markets": 18,
+    "total_vol": 6079797.142592007,
+    "is_partition": false
+  },
+  {
+    "slug": "cl-over-under-jun-2026",
+    "pcd": 1.161,
+    "sum_prices": 2.161,
+    "dutch_book_pct": 1.161,
+    "n_markets": 3,
+    "total_vol": 49962.16447100002,
+    "is_partition": false
+  },
+  {
+    "slug": "will-nansen-launch-a-token-by",
+    "pcd": -0.475,
+    "sum_prices": 0.525,
+    "dutch_book_pct": 0.475,
+    "n_markets": 3,
+    "total_vol": 194447.28826600016,
+    "is_partition": false
+  },
+  {
+    "slug": "will-titan-launch-a-token-by",
+    "pcd": 0.10499999999999998,
+    "sum_prices": 1.105,
+    "dutch_book_pct": 0.10499999999999998,
+    "n_markets": 3,
+    "total_vol": 84541.76212899997,
+    "is_partition": false
+  },
+  {
+    "slug": "will-perena-launch-a-token-by",
+    "pcd": 0.52,
+    "sum_prices": 1.52,
+    "dutch_book_pct": 0.52,
+    "n_markets": 3,
+    "total_vol": 171742.48331899996,
+    "is_partition": false
+  },
+  {
+    "slug": "will-exponent-launch-a-token-by",
+    "pcd": 0.19499999999999984,
+    "sum_prices": 1.1949999999999998,
+    "dutch_book_pct": 0.19499999999999984,
+    "n_markets": 3,
+    "total_vol": 454305.94454,
+    "is_partition": false
+  },
+  {
+    "slug": "will-tim-walz-resign-by",
+    "pcd": -0.8905,
+    "sum_prices": 0.1095,
+    "dutch_book_pct": 0.8905,
+    "n_markets": 2,
+    "total_vol": 2503720.182372,
+    "is_partition": false
+  },
+  {
+    "slug": "lol-worlds-2026-winning-region-226",
+    "pcd": -0.04600000000000004,
+    "sum_prices": 0.954,
+    "dutch_book_pct": 0.04600000000000004,
+    "n_markets": 4,
+    "total_vol": 67894.48327,
+    "is_partition": false
+  },
+  {
+    "slug": "elc-por-ips-2026-01-04-more-markets",
+    "pcd": -0.08000000000000007,
+    "sum_prices": 0.9199999999999999,
+    "dutch_book_pct": 0.08000000000000007,
+    "n_markets": 2,
+    "total_vol": 56133.31031399998,
+    "is_partition": false
+  },
+  {
+    "slug": "which-banks-will-fail-by-june-30",
+    "pcd": -0.861,
+    "sum_prices": 0.139,
+    "dutch_book_pct": 0.861,
+    "n_markets": 7,
+    "total_vol": 348872.15746700007,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-lighter-hit-before-2027",
+    "pcd": -0.487,
+    "sum_prices": 0.513,
+    "dutch_book_pct": 0.487,
+    "n_markets": 5,
+    "total_vol": 598354.885667,
+    "is_partition": false
+  },
+  {
+    "slug": "will-microstrategy-announce-holding-800k-btc-by-december-31-2026",
+    "pcd": 0.21199999999999997,
+    "sum_prices": 1.212,
+    "dutch_book_pct": 0.21199999999999997,
+    "n_markets": 2,
+    "total_vol": 220247.14454799998,
+    "is_partition": false
+  },
+  {
+    "slug": "base-fdv-above-one-day-after-launch",
+    "pcd": 0.8300000000000003,
+    "sum_prices": 1.8300000000000003,
+    "dutch_book_pct": 0.8300000000000003,
+    "n_markets": 6,
+    "total_vol": 506716.6628959998,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-7pt0-or-above-earthquakes-in-2026",
+    "pcd": 0.005999999999999783,
+    "sum_prices": 1.0059999999999998,
+    "dutch_book_pct": 0.005999999999999783,
+    "n_markets": 7,
+    "total_vol": 1123708.897917,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-large-volcano-eruption-vei-4-in-2026-657",
+    "pcd": -0.09999999999999998,
+    "sum_prices": 0.9,
+    "dutch_book_pct": 0.09999999999999998,
+    "n_markets": 5,
+    "total_vol": 669446.7697420003,
+    "is_partition": false
+  },
+  {
+    "slug": "chatbot-arena-how-high-will-ai-score-by-december-31",
+    "pcd": -0.32499999999999996,
+    "sum_prices": 0.675,
+    "dutch_book_pct": 0.32499999999999996,
+    "n_markets": 2,
+    "total_vol": 66921.789618,
+    "is_partition": false
+  },
+  {
+    "slug": "how-high-will-us-unemployment-go-in-2026",
+    "pcd": 0.20799999999999996,
+    "sum_prices": 1.208,
+    "dutch_book_pct": 0.20799999999999996,
+    "n_markets": 5,
+    "total_vol": 344302.2517019999,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-mens-french-open-winner",
+    "pcd": 0.022500000000000187,
+    "sum_prices": 1.0225000000000002,
+    "dutch_book_pct": 0.022500000000000187,
+    "n_markets": 39,
+    "total_vol": 1684792.4743839996,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-womens-french-open-winner",
+    "pcd": -0.5495,
+    "sum_prices": 0.4505,
+    "dutch_book_pct": 0.5495,
+    "n_markets": 16,
+    "total_vol": 1808458.9657050003,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-mens-wimbledon-winner",
+    "pcd": -0.755,
+    "sum_prices": 0.245,
+    "dutch_book_pct": 0.755,
+    "n_markets": 17,
+    "total_vol": 2749089.129532,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-womens-wimbledon-winner",
+    "pcd": -0.44650000000000023,
+    "sum_prices": 0.5534999999999998,
+    "dutch_book_pct": 0.44650000000000023,
+    "n_markets": 30,
+    "total_vol": 4533623.034675,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-mens-us-open-winner-tennis",
+    "pcd": -0.767,
+    "sum_prices": 0.233,
+    "dutch_book_pct": 0.767,
+    "n_markets": 11,
+    "total_vol": 986914.0758739999,
+    "is_partition": true
+  },
+  {
+    "slug": "2026-womens-us-open-winner-tennis",
+    "pcd": -0.4654999999999999,
+    "sum_prices": 0.5345000000000001,
+    "dutch_book_pct": 0.4654999999999999,
+    "n_markets": 18,
+    "total_vol": 931051.8075699998,
+    "is_partition": true
+  },
+  {
+    "slug": "how-many-tesla-deliveries-in-q1-2026",
+    "pcd": -0.007500000000000173,
+    "sum_prices": 0.9924999999999998,
+    "dutch_book_pct": 0.007500000000000173,
+    "n_markets": 4,
+    "total_vol": 841386.7431410003,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-be-ufc-bantamweight-champion-at-the-end-of-2026",
+    "pcd": -0.857,
+    "sum_prices": 0.14300000000000002,
+    "dutch_book_pct": 0.857,
+    "n_markets": 5,
+    "total_vol": 276705.64177499997,
+    "is_partition": true
+  },
+  {
+    "slug": "who-will-be-ufc-middleweight-champion-at-the-end-of-2026",
+    "pcd": -0.1835000000000001,
+    "sum_prices": 0.8164999999999999,
+    "dutch_book_pct": 0.1835000000000001,
+    "n_markets": 8,
+    "total_vol": 335549.449802,
+    "is_partition": true
+  },
+  {
+    "slug": "will-reza-pahlavi-enter-iran-by-june-30",
+    "pcd": -0.718,
+    "sum_prices": 0.28200000000000003,
+    "dutch_book_pct": 0.718,
+    "n_markets": 4,
+    "total_vol": 13049091.898577929,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-opelka-fonseca-2026-01-03",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 173940.44940399998,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-arnaldi-hijikat-2026-01-03",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 44645.858500999995,
+    "is_partition": false
+  },
+  {
+    "slug": "maduro-prison-time-527",
+    "pcd": -0.06600000000000006,
+    "sum_prices": 0.9339999999999999,
+    "dutch_book_pct": 0.06600000000000006,
+    "n_markets": 5,
+    "total_vol": 446026.2037070001,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-arnaldi-altmaie-2026-01-04",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 91529.01916,
+    "is_partition": false
+  },
+  {
+    "slug": "venezuela-leader-end-of-2026",
+    "pcd": -0.005500000000000171,
+    "sum_prices": 0.9944999999999998,
+    "dutch_book_pct": 0.005500000000000171,
+    "n_markets": 13,
+    "total_vol": 79322693.00698179,
+    "is_partition": false
+  },
+  {
+    "slug": "how-much-will-coinbase-token-sales-raise-in-2026",
+    "pcd": -0.16700000000000004,
+    "sum_prices": 0.833,
+    "dutch_book_pct": 0.16700000000000004,
+    "n_markets": 2,
+    "total_vol": 158972.21663099993,
+    "is_partition": false
+  },
+  {
+    "slug": "miguel-daz-canel-out-as-leader-of-cuba-by-june-30",
+    "pcd": -0.20500000000000007,
+    "sum_prices": 0.7949999999999999,
+    "dutch_book_pct": 0.20500000000000007,
+    "n_markets": 2,
+    "total_vol": 957104.3251049997,
+    "is_partition": false
+  },
+  {
+    "slug": "gustavo-petro-out-as-leader-of-colombia-by",
+    "pcd": -0.03600000000000003,
+    "sum_prices": 0.964,
+    "dutch_book_pct": 0.03600000000000003,
+    "n_markets": 2,
+    "total_vol": 153704.26273100002,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-ric12-cam6-2026-01-24",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 97373.414998,
+    "is_partition": false
+  },
+  {
+    "slug": "jerome-powell-out-from-fed-board-by",
+    "pcd": 0.06000000000000005,
+    "sum_prices": 1.06,
+    "dutch_book_pct": 0.06000000000000005,
+    "n_markets": 2,
+    "total_vol": 117698.25583600008,
+    "is_partition": false
+  },
+  {
+    "slug": "next-manchester-united-manager",
+    "pcd": -0.24349999999999994,
+    "sum_prices": 0.7565000000000001,
+    "dutch_book_pct": 0.24349999999999994,
+    "n_markets": 3,
+    "total_vol": 432573.8833369998,
+    "is_partition": false
+  },
+  {
+    "slug": "new-stranger-things-episode-released-by-wednesday",
+    "pcd": -0.9055,
+    "sum_prices": 0.0945,
+    "dutch_book_pct": 0.9055,
+    "n_markets": 2,
+    "total_vol": 29555498.605422,
+    "is_partition": false
+  },
+  {
+    "slug": "mahmoud-abbas-out-as-palestinian-president-by",
+    "pcd": -0.405,
+    "sum_prices": 0.595,
+    "dutch_book_pct": 0.405,
+    "n_markets": 2,
+    "total_vol": 96796.34985599999,
+    "is_partition": true
+  },
+  {
+    "slug": "insurrection-act-invoked-by",
+    "pcd": -0.635,
+    "sum_prices": 0.365,
+    "dutch_book_pct": 0.635,
+    "n_markets": 2,
+    "total_vol": 1028867.6785120002,
+    "is_partition": false
+  },
+  {
+    "slug": "israel-strike-on-yemen-by-593",
+    "pcd": 1.6500000000000004,
+    "sum_prices": 2.6500000000000004,
+    "dutch_book_pct": 1.6500000000000004,
+    "n_markets": 4,
+    "total_vol": 1189823.6505469992,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-win-the-2026-fields-medal",
+    "pcd": 1.7800000000000002,
+    "sum_prices": 2.7800000000000002,
+    "dutch_book_pct": 1.7800000000000002,
+    "n_markets": 5,
+    "total_vol": 363809.852479,
+    "is_partition": true
+  },
+  {
+    "slug": "who-will-win-a-calendar-grand-slam-in-2026",
+    "pcd": -0.010499999999999954,
+    "sum_prices": 0.9895,
+    "dutch_book_pct": 0.010499999999999954,
+    "n_markets": 2,
+    "total_vol": 225453.06878400012,
+    "is_partition": false
+  },
+  {
+    "slug": "space-fdv-above-one-day-after-launch",
+    "pcd": 0.7025000000000001,
+    "sum_prices": 1.7025000000000001,
+    "dutch_book_pct": 0.7025000000000001,
+    "n_markets": 7,
+    "total_vol": 438777.7392650001,
+    "is_partition": false
+  },
+  {
+    "slug": "which-maps-will-valve-remove-by-june-30",
+    "pcd": -0.43900000000000006,
+    "sum_prices": 0.5609999999999999,
+    "dutch_book_pct": 0.43900000000000006,
+    "n_markets": 3,
+    "total_vol": 633097.432706,
+    "is_partition": false
+  },
+  {
+    "slug": "lebanon-parliamentary-election-winner",
+    "pcd": -0.8105,
+    "sum_prices": 0.1895,
+    "dutch_book_pct": 0.8105,
+    "n_markets": 3,
+    "total_vol": 204206.43328499992,
+    "is_partition": true
+  },
+  {
+    "slug": "who-will-win-a-womens-calendar-grand-slam-in-2026",
+    "pcd": -0.0020000000000000018,
+    "sum_prices": 0.998,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 2,
+    "total_vol": 1507638.2547410056,
+    "is_partition": false
+  },
+  {
+    "slug": "will-venezuelan-crude-oil-production-reach-barrels-per-day-in-2026",
+    "pcd": 0.7075,
+    "sum_prices": 1.7075,
+    "dutch_book_pct": 0.7075,
+    "n_markets": 4,
+    "total_vol": 64990.00019800001,
+    "is_partition": false
+  },
+  {
+    "slug": "russia-parliamentary-election-winner",
+    "pcd": 0.0029999999999998916,
+    "sum_prices": 1.003,
+    "dutch_book_pct": 0.0029999999999998916,
+    "n_markets": 7,
+    "total_vol": 893716.0106600003,
+    "is_partition": true
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "pcd": -0.0015000000000001679,
+    "sum_prices": 0.9984999999999998,
+    "dutch_book_pct": 0.0015000000000001679,
+    "n_markets": 7,
+    "total_vol": 4471739.811236,
+    "is_partition": false
+  },
+  {
+    "slug": "billboard-1-artist-2026",
+    "pcd": -0.7875,
+    "sum_prices": 0.21250000000000002,
+    "dutch_book_pct": 0.7875,
+    "n_markets": 2,
+    "total_vol": 96264.61297900004,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-spacex-launches-in-2026",
+    "pcd": -0.007000000000000006,
+    "sum_prices": 0.993,
+    "dutch_book_pct": 0.007000000000000006,
+    "n_markets": 4,
+    "total_vol": 240553.856849,
+    "is_partition": false
+  },
+  {
+    "slug": "masoud-pezeshkian-out-by",
+    "pcd": -0.38,
+    "sum_prices": 0.62,
+    "dutch_book_pct": 0.38,
+    "n_markets": 2,
+    "total_vol": 507322.18661200046,
+    "is_partition": false
+  },
+  {
+    "slug": "how-much-will-be-wagered-on-us-sports-betting-in-2026",
+    "pcd": 0.6160000000000001,
+    "sum_prices": 1.616,
+    "dutch_book_pct": 0.6160000000000001,
+    "n_markets": 2,
+    "total_vol": 37142.893518000004,
+    "is_partition": false
+  },
+  {
+    "slug": "will-tread-launch-a-token-by",
+    "pcd": 0.855,
+    "sum_prices": 1.855,
+    "dutch_book_pct": 0.855,
+    "n_markets": 3,
+    "total_vol": 63488.371874,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-dus3-jim-2026-01-31",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 54245.535808,
+    "is_partition": false
+  },
+  {
+    "slug": "us-forces-enter-iran-by",
+    "pcd": 0.1915,
+    "sum_prices": 1.1915,
+    "dutch_book_pct": 0.1915,
+    "n_markets": 3,
+    "total_vol": 82299863.86695829,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-the-fed-rate-be-at-the-end-of-2026",
+    "pcd": 0.033500000000000085,
+    "sum_prices": 1.0335,
+    "dutch_book_pct": 0.033500000000000085,
+    "n_markets": 15,
+    "total_vol": 5971662.121216999,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-kokkina-vachero-2026-01-13",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 83718.376407,
+    "is_partition": false
+  },
+  {
+    "slug": "will-the-us-officially-declare-war-on-iran-by",
+    "pcd": -0.9115,
+    "sum_prices": 0.0885,
+    "dutch_book_pct": 0.9115,
+    "n_markets": 2,
+    "total_vol": 5127225.48632798,
+    "is_partition": false
+  },
+  {
+    "slug": "kadyrov-out-as-head-of-the-chechen-republic-by",
+    "pcd": -0.64,
+    "sum_prices": 0.36,
+    "dutch_book_pct": 0.64,
+    "n_markets": 2,
+    "total_vol": 158561.00343000004,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-berrett-minaur-2026-01-18",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 85514.056149,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-cazaux-faria-2026-01-18",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 405073.945045,
+    "is_partition": false
+  },
+  {
+    "slug": "china-annual-gdp-growth-2026",
+    "pcd": 0.04299999999999993,
+    "sum_prices": 1.043,
+    "dutch_book_pct": 0.04299999999999993,
+    "n_markets": 7,
+    "total_vol": 189925.35432800002,
+    "is_partition": false
+  },
+  {
+    "slug": "next-prime-minister-of-sweden",
+    "pcd": -0.010500000000000176,
+    "sum_prices": 0.9894999999999998,
+    "dutch_book_pct": 0.010500000000000176,
+    "n_markets": 10,
+    "total_vol": 1708529.866827,
+    "is_partition": false
+  },
+  {
+    "slug": "next-prime-minister-of-slovenia",
+    "pcd": -0.13349999999999995,
+    "sum_prices": 0.8665,
+    "dutch_book_pct": 0.13349999999999995,
+    "n_markets": 4,
+    "total_vol": 2048538.3751090001,
+    "is_partition": false
+  },
+  {
+    "slug": "survivor-50-winner",
+    "pcd": 0.01750000000000007,
+    "sum_prices": 1.0175,
+    "dutch_book_pct": 0.01750000000000007,
+    "n_markets": 23,
+    "total_vol": 787423.9595409997,
+    "is_partition": true
+  },
+  {
+    "slug": "eurovision-2026-first-semi-final",
+    "pcd": 1.1750000000000003,
+    "sum_prices": 2.1750000000000003,
+    "dutch_book_pct": 1.1750000000000003,
+    "n_markets": 3,
+    "total_vol": 378659.58141400013,
+    "is_partition": false
+  },
+  {
+    "slug": "eurovision-2026-second-semi-final",
+    "pcd": 0.95,
+    "sum_prices": 1.95,
+    "dutch_book_pct": 0.95,
+    "n_markets": 3,
+    "total_vol": 46241.352552,
+    "is_partition": false
+  },
+  {
+    "slug": "bulgaria-presidential-election",
+    "pcd": -0.495,
+    "sum_prices": 0.505,
+    "dutch_book_pct": 0.495,
+    "n_markets": 2,
+    "total_vol": 47199.60222399999,
+    "is_partition": true
+  },
+  {
+    "slug": "next-prime-minister-of-vietnam",
+    "pcd": -0.01750000000000007,
+    "sum_prices": 0.9824999999999999,
+    "dutch_book_pct": 0.01750000000000007,
+    "n_markets": 4,
+    "total_vol": 16092807.297324995,
+    "is_partition": false
+  },
+  {
+    "slug": "major-rate-cut-chances-under-each-fed-chair-948",
+    "pcd": -0.852,
+    "sum_prices": 0.148,
+    "dutch_book_pct": 0.852,
+    "n_markets": 4,
+    "total_vol": 73916.840563,
+    "is_partition": false
+  },
+  {
+    "slug": "santa-cruz-governor-election-winner-bolivia",
+    "pcd": -0.08999999999999997,
+    "sum_prices": 0.91,
+    "dutch_book_pct": 0.08999999999999997,
+    "n_markets": 3,
+    "total_vol": 552699.7888930012,
+    "is_partition": true
+  },
+  {
+    "slug": "china-gdp-growth-in-q1-2026",
+    "pcd": 0.008999999999999897,
+    "sum_prices": 1.009,
+    "dutch_book_pct": 0.008999999999999897,
+    "n_markets": 7,
+    "total_vol": 231506.81599600008,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-win-big-brother-brasil-26",
+    "pcd": -0.001000000000000223,
+    "sum_prices": 0.9989999999999998,
+    "dutch_book_pct": 0.001000000000000223,
+    "n_markets": 12,
+    "total_vol": 988640.963737,
+    "is_partition": false
+  },
+  {
+    "slug": "next-president-of-vietnam",
+    "pcd": 0.0020000000000000018,
+    "sum_prices": 1.002,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 4,
+    "total_vol": 28418215.55478901,
+    "is_partition": true
+  },
+  {
+    "slug": "mlb-world-series-champion-2026",
+    "pcd": 0.02949999999999986,
+    "sum_prices": 1.0294999999999999,
+    "dutch_book_pct": 0.02949999999999986,
+    "n_markets": 30,
+    "total_vol": 9267643.74932,
+    "is_partition": true
+  },
+  {
+    "slug": "2025-2026-fa-cup-winner-215",
+    "pcd": -0.6839999999999999,
+    "sum_prices": 0.316,
+    "dutch_book_pct": 0.6839999999999999,
+    "n_markets": 3,
+    "total_vol": 310686.403253,
+    "is_partition": true
+  },
+  {
+    "slug": "cs2-nem-nemi1-2026-01-22",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 45864.222989,
+    "is_partition": false
+  },
+  {
+    "slug": "bank-of-japan-decision-in-april",
+    "pcd": 0.008000000000000007,
+    "sum_prices": 1.008,
+    "dutch_book_pct": 0.008000000000000007,
+    "n_markets": 4,
+    "total_vol": 282962.47343000025,
+    "is_partition": false
+  },
+  {
+    "slug": "spacex-ipo-by",
+    "pcd": 1.5220000000000002,
+    "sum_prices": 2.5220000000000002,
+    "dutch_book_pct": 1.5220000000000002,
+    "n_markets": 5,
+    "total_vol": 974543.3223190001,
+    "is_partition": false
+  },
+  {
+    "slug": "spacex-ipo-closing-market-cap-higher-strikes",
+    "pcd": -0.015499999999999958,
+    "sum_prices": 0.9845,
+    "dutch_book_pct": 0.015499999999999958,
+    "n_markets": 8,
+    "total_vol": 659025.200414,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-mensik-djokovi-2026-01-26",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 151489.303063,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-musetti-djokovi-2026-01-28",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 3369486.167842,
+    "is_partition": false
+  },
+  {
+    "slug": "will-opensea-launch-a-token-by-142",
+    "pcd": -0.08499999999999996,
+    "sum_prices": 0.915,
+    "dutch_book_pct": 0.08499999999999996,
+    "n_markets": 3,
+    "total_vol": 1364158.843793999,
+    "is_partition": false
+  },
+  {
+    "slug": "mex-que-jua-2026-02-22",
+    "pcd": -0.43999999999999995,
+    "sum_prices": 0.56,
+    "dutch_book_pct": 0.43999999999999995,
+    "n_markets": 2,
+    "total_vol": 56611.81973799999,
+    "is_partition": false
+  },
+  {
+    "slug": "mezo-fdv-above-one-day-after-launch",
+    "pcd": -0.18599999999999994,
+    "sum_prices": 0.8140000000000001,
+    "dutch_book_pct": 0.18599999999999994,
+    "n_markets": 2,
+    "total_vol": 78775.272547,
+    "is_partition": false
+  },
+  {
+    "slug": "dota2-pi-aur1-2026-01-28",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 145323.49667999998,
+    "is_partition": false
+  },
+  {
+    "slug": "unit-fdv-above-one-day-after-launch",
+    "pcd": 0.33499999999999996,
+    "sum_prices": 1.335,
+    "dutch_book_pct": 0.33499999999999996,
+    "n_markets": 3,
+    "total_vol": 101519.02277999998,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-sai-jav-2026-02-07",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 71956.678737,
+    "is_partition": false
+  },
+  {
+    "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+    "pcd": -0.19500000000000006,
+    "sum_prices": 0.8049999999999999,
+    "dutch_book_pct": 0.19500000000000006,
+    "n_markets": 2,
+    "total_vol": 48923.104112,
+    "is_partition": false
+  },
+  {
+    "slug": "ca-28-house-election-winner",
+    "pcd": -0.010000000000000009,
+    "sum_prices": 0.99,
+    "dutch_book_pct": 0.010000000000000009,
+    "n_markets": 2,
+    "total_vol": 61719.310381999996,
+    "is_partition": true
+  },
+  {
+    "slug": "ks-04-house-election-winner",
+    "pcd": -0.0050000000000000044,
+    "sum_prices": 0.995,
+    "dutch_book_pct": 0.0050000000000000044,
+    "n_markets": 2,
+    "total_vol": 24938.229733,
+    "is_partition": true
+  },
+  {
+    "slug": "mo-08-house-election-winner",
+    "pcd": -0.019999999999999907,
+    "sum_prices": 0.9800000000000001,
+    "dutch_book_pct": 0.019999999999999907,
+    "n_markets": 2,
+    "total_vol": 25613.209887999998,
+    "is_partition": true
+  },
+  {
+    "slug": "ok-03-house-election-winner",
+    "pcd": -0.0129999999999999,
+    "sum_prices": 0.9870000000000001,
+    "dutch_book_pct": 0.0129999999999999,
+    "n_markets": 2,
+    "total_vol": 45013.12339099999,
+    "is_partition": true
+  },
+  {
+    "slug": "va-06-house-election-winner",
+    "pcd": 0.0050000000000001155,
+    "sum_prices": 1.0050000000000001,
+    "dutch_book_pct": 0.0050000000000001155,
+    "n_markets": 2,
+    "total_vol": 29055.234847,
+    "is_partition": true
+  },
+  {
+    "slug": "wa-04-house-election-winner",
+    "pcd": -0.03500000000000003,
+    "sum_prices": 0.965,
+    "dutch_book_pct": 0.03500000000000003,
+    "n_markets": 2,
+    "total_vol": 22959.051202000013,
+    "is_partition": true
+  },
+  {
+    "slug": "google-gemini-score-on-humanitys-last-exam-by-june-30",
+    "pcd": 1.3905000000000003,
+    "sum_prices": 2.3905000000000003,
+    "dutch_book_pct": 1.3905000000000003,
+    "n_markets": 5,
+    "total_vol": 264363.78271799994,
+    "is_partition": false
+  },
+  {
+    "slug": "anthropic-claude-score-on-humanitys-last-exam-by-june-30",
+    "pcd": 0.43300000000000005,
+    "sum_prices": 1.433,
+    "dutch_book_pct": 0.43300000000000005,
+    "n_markets": 2,
+    "total_vol": 189748.76022200013,
+    "is_partition": false
+  },
+  {
+    "slug": "bank-of-canada-decision-in-april",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 4,
+    "total_vol": 69065.52830800001,
+    "is_partition": false
+  },
+  {
+    "slug": "abstract-fdv-above-one-day-after-launch",
+    "pcd": 0.3789999999999998,
+    "sum_prices": 1.3789999999999998,
+    "dutch_book_pct": 0.3789999999999998,
+    "n_markets": 6,
+    "total_vol": 301497.9125559998,
+    "is_partition": false
+  },
+  {
+    "slug": "bank-of-brazil-decision-in-april",
+    "pcd": -0.006000000000000005,
+    "sum_prices": 0.994,
+    "dutch_book_pct": 0.006000000000000005,
+    "n_markets": 3,
+    "total_vol": 190565.17439899986,
+    "is_partition": false
+  },
+  {
+    "slug": "fed-decisions-mar-jun",
+    "pcd": 0.006000000000000005,
+    "sum_prices": 1.006,
+    "dutch_book_pct": 0.006000000000000005,
+    "n_markets": 5,
+    "total_vol": 717045.6283719996,
+    "is_partition": false
+  },
+  {
+    "slug": "hurupay-fdv-above-one-day-after-launch",
+    "pcd": -0.21599999999999997,
+    "sum_prices": 0.784,
+    "dutch_book_pct": 0.21599999999999997,
+    "n_markets": 5,
+    "total_vol": 168231.43300200015,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-gold-gc-hit-by-end-of-december",
+    "pcd": 0.051000000000000156,
+    "sum_prices": 1.0510000000000002,
+    "dutch_book_pct": 0.051000000000000156,
+    "n_markets": 6,
+    "total_vol": 180437.1119640001,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-xi-jinping-purge-in-2026",
+    "pcd": -0.673,
+    "sum_prices": 0.32699999999999996,
+    "dutch_book_pct": 0.673,
+    "n_markets": 4,
+    "total_vol": 61836.691932999966,
+    "is_partition": false
+  },
+  {
+    "slug": "what-kind-of-product-will-openai-announce-in-2026",
+    "pcd": -0.050000000000000044,
+    "sum_prices": 0.95,
+    "dutch_book_pct": 0.050000000000000044,
+    "n_markets": 4,
+    "total_vol": 98812.69839600002,
+    "is_partition": false
+  },
+  {
+    "slug": "bitcoin-best-month-in-2026",
+    "pcd": -0.675,
+    "sum_prices": 0.32499999999999996,
+    "dutch_book_pct": 0.675,
+    "n_markets": 3,
+    "total_vol": 569005.0652910001,
+    "is_partition": false
+  },
+  {
+    "slug": "openai-ipo-closing-market-cap-above",
+    "pcd": 1.2099999999999995,
+    "sum_prices": 2.2099999999999995,
+    "dutch_book_pct": 1.2099999999999995,
+    "n_markets": 5,
+    "total_vol": 1443715.9270980004,
+    "is_partition": false
+  },
+  {
+    "slug": "kevin-warsh-confirmed-as-fed-chair-by-may-15",
+    "pcd": -0.385,
+    "sum_prices": 0.615,
+    "dutch_book_pct": 0.385,
+    "n_markets": 2,
+    "total_vol": 437592.2140370003,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-vote-to-confirm-kevin-warsh-as-fed-chair",
+    "pcd": -0.023499999999999965,
+    "sum_prices": 0.9765,
+    "dutch_book_pct": 0.023499999999999965,
+    "n_markets": 2,
+    "total_vol": 66084.53337800002,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-baptist-kostovi-2026-01-31",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 321962.112916,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-mcdonal-kovacev-2026-02-02",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 487584.55130999995,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-tomljan-fernand-2026-02-01",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 143604.71815899998,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-badosa-maneiro-2026-02-02",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 158748.249622,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-spo-f5-2026-02-03",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 92986.949402,
+    "is_partition": false
+  },
+  {
+    "slug": "lol-spk-b5-2026-02-04",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 143999.200871,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-bencic-kartal-2026-02-04",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 277373.79013000004,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-paddy-pimblett-fight-next",
+    "pcd": -0.6495,
+    "sum_prices": 0.35050000000000003,
+    "dutch_book_pct": 0.6495,
+    "n_markets": 2,
+    "total_vol": 37033.40371900001,
+    "is_partition": false
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "pcd": 0.0044999999999999485,
+    "sum_prices": 1.0045,
+    "dutch_book_pct": 0.0044999999999999485,
+    "n_markets": 12,
+    "total_vol": 1637416.9185409995,
+    "is_partition": false
+  },
+  {
+    "slug": "cap-fdv-above-one-day-after-launch",
+    "pcd": 0.17500000000000004,
+    "sum_prices": 1.175,
+    "dutch_book_pct": 0.17500000000000004,
+    "n_markets": 2,
+    "total_vol": 55016.140523,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-gpu-rental-prices-h100-hit-by-april-30-967",
+    "pcd": -0.16349999999999998,
+    "sum_prices": 0.8365,
+    "dutch_book_pct": 0.16349999999999998,
+    "n_markets": 7,
+    "total_vol": 304437.617637,
+    "is_partition": false
+  },
+  {
+    "slug": "which-companies-will-the-us-take-a-stake-in",
+    "pcd": -0.7055,
+    "sum_prices": 0.2945,
+    "dutch_book_pct": 0.7055,
+    "n_markets": 2,
+    "total_vol": 57716.60222499998,
+    "is_partition": false
+  },
+  {
+    "slug": "charlie-puth-whatevers-clever-first-week-album-sales",
+    "pcd": 0.2254999999999998,
+    "sum_prices": 1.2254999999999998,
+    "dutch_book_pct": 0.2254999999999998,
+    "n_markets": 3,
+    "total_vol": 217745.50262500002,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-buy-the-seattle-seahawks-814",
+    "pcd": -0.28500000000000003,
+    "sum_prices": 0.715,
+    "dutch_book_pct": 0.28500000000000003,
+    "n_markets": 2,
+    "total_vol": 54748.249814,
+    "is_partition": false
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-119",
+    "pcd": -0.9925,
+    "sum_prices": 0.0075,
+    "dutch_book_pct": 0.9925,
+    "n_markets": 2,
+    "total_vol": 74673.76421700002,
+    "is_partition": false
+  },
+  {
+    "slug": "gemini-3pt5-released-by-june-30",
+    "pcd": -0.265,
+    "sum_prices": 0.735,
+    "dutch_book_pct": 0.265,
+    "n_markets": 3,
+    "total_vol": 818603.7311539985,
+    "is_partition": false
+  },
+  {
+    "slug": "tx-33-democratic-primary-winner",
+    "pcd": -0.010000000000000009,
+    "sum_prices": 0.99,
+    "dutch_book_pct": 0.010000000000000009,
+    "n_markets": 2,
+    "total_vol": 51566.699472999986,
+    "is_partition": true
+  },
+  {
+    "slug": "another-critical-cloudflare-incident-by-528",
+    "pcd": 0.661,
+    "sum_prices": 1.661,
+    "dutch_book_pct": 0.661,
+    "n_markets": 4,
+    "total_vol": 354268.5870139998,
+    "is_partition": false
+  },
+  {
+    "slug": "ecb-interest-rates-april-2026",
+    "pcd": -0.0015000000000000568,
+    "sum_prices": 0.9984999999999999,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 3,
+    "total_vol": 267256.28392600006,
+    "is_partition": false
+  },
+  {
+    "slug": "next-uk-prime-minister-in-2026-122",
+    "pcd": -0.11749999999999994,
+    "sum_prices": 0.8825000000000001,
+    "dutch_book_pct": 0.11749999999999994,
+    "n_markets": 20,
+    "total_vol": 4219679.290395997,
+    "is_partition": false
+  },
+  {
+    "slug": "in-which-month-will-spacex-ipo",
+    "pcd": -0.39050000000000007,
+    "sum_prices": 0.6094999999999999,
+    "dutch_book_pct": 0.39050000000000007,
+    "n_markets": 2,
+    "total_vol": 135654.07267799997,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-badosa-ostapen-2026-02-08",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 129061.028311,
+    "is_partition": false
+  },
+  {
+    "slug": "bank-of-england-decision-in-april",
+    "pcd": 0.0040000000000000036,
+    "sum_prices": 1.004,
+    "dutch_book_pct": 0.0040000000000000036,
+    "n_markets": 4,
+    "total_vol": 267340.34455000004,
+    "is_partition": false
+  },
+  {
+    "slug": "mls-cup-winner-2026",
+    "pcd": -0.35650000000000004,
+    "sum_prices": 0.6435,
+    "dutch_book_pct": 0.35650000000000004,
+    "n_markets": 22,
+    "total_vol": 11332314.890271995,
+    "is_partition": true
+  },
+  {
+    "slug": "atp-bergs-marozsa-2026-02-09",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 114313.239927,
+    "is_partition": false
+  },
+  {
+    "slug": "india-annual-inflation-2026",
+    "pcd": -0.11499999999999999,
+    "sum_prices": 0.885,
+    "dutch_book_pct": 0.11499999999999999,
+    "n_markets": 3,
+    "total_vol": 55696.99592000001,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-ern2-sof1-2026-02-28",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 230023.224338,
+    "is_partition": false
+  },
+  {
+    "slug": "big-game-champion-2027",
+    "pcd": 0.026499999999999968,
+    "sum_prices": 1.0265,
+    "dutch_book_pct": 0.026499999999999968,
+    "n_markets": 32,
+    "total_vol": 10023054.636707988,
+    "is_partition": true
+  },
+  {
+    "slug": "where-will-maxx-crosby-play-in-2026",
+    "pcd": -0.1974999999999999,
+    "sum_prices": 0.8025000000000001,
+    "dutch_book_pct": 0.1974999999999999,
+    "n_markets": 3,
+    "total_vol": 32601.057647999998,
+    "is_partition": false
+  },
+  {
+    "slug": "pro-football-2027-nfc-champion",
+    "pcd": -0.4245,
+    "sum_prices": 0.5755,
+    "dutch_book_pct": 0.4245,
+    "n_markets": 11,
+    "total_vol": 4726523.262406999,
+    "is_partition": true
+  },
+  {
+    "slug": "pro-football-2027-afc-champion",
+    "pcd": -0.371,
+    "sum_prices": 0.629,
+    "dutch_book_pct": 0.371,
+    "n_markets": 12,
+    "total_vol": 3030897.6219769996,
+    "is_partition": true
+  },
+  {
+    "slug": "how-long-will-trump-and-xi-shake-hands-when-they-meet",
+    "pcd": -0.8534999999999999,
+    "sum_prices": 0.14650000000000002,
+    "dutch_book_pct": 0.8534999999999999,
+    "n_markets": 3,
+    "total_vol": 34319.293472000005,
+    "is_partition": false
+  },
+  {
+    "slug": "sachsen-anhalt-parliamentary-election-winner",
+    "pcd": -0.905,
+    "sum_prices": 0.095,
+    "dutch_book_pct": 0.905,
+    "n_markets": 3,
+    "total_vol": 582627.1849510003,
+    "is_partition": true
+  },
+  {
+    "slug": "mecklenburg-vorpommern-parliamentary-election-winner",
+    "pcd": -0.85,
+    "sum_prices": 0.15000000000000002,
+    "dutch_book_pct": 0.85,
+    "n_markets": 5,
+    "total_vol": 152187.706985,
+    "is_partition": true
+  },
+  {
+    "slug": "brazil-presidential-election-first-round-2nd-place",
+    "pcd": 0.03600000000000003,
+    "sum_prices": 1.036,
+    "dutch_book_pct": 0.03600000000000003,
+    "n_markets": 13,
+    "total_vol": 2723093.3682129993,
+    "is_partition": true
+  },
+  {
+    "slug": "brazil-presidential-election-first-round-3rd-place",
+    "pcd": -0.5045,
+    "sum_prices": 0.4955,
+    "dutch_book_pct": 0.5045,
+    "n_markets": 4,
+    "total_vol": 142827.612913,
+    "is_partition": true
+  },
+  {
+    "slug": "cs2-red9-vsc-2026-02-12",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 80986.04779299999,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-fcf-allin-2026-02-13",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 29396.489097,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-nem-vpp-2026-02-13",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 41939.760693000004,
+    "is_partition": false
+  },
+  {
+    "slug": "who-visited-epsteins-island",
+    "pcd": 0.15900000000000003,
+    "sum_prices": 1.159,
+    "dutch_book_pct": 0.15900000000000003,
+    "n_markets": 15,
+    "total_vol": 1564520.7534409997,
+    "is_partition": false
+  },
+  {
+    "slug": "march-inflation-us-annual",
+    "pcd": 0.0040000000000000036,
+    "sum_prices": 1.004,
+    "dutch_book_pct": 0.0040000000000000036,
+    "n_markets": 9,
+    "total_vol": 3031816.358049997,
+    "is_partition": false
+  },
+  {
+    "slug": "march-unemployment-rate-561",
+    "pcd": -0.9705,
+    "sum_prices": 0.0295,
+    "dutch_book_pct": 0.9705,
+    "n_markets": 2,
+    "total_vol": 115941.444661,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-ill-fcf-2026-02-14",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 102964.766162,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-basilas-virtane-2026-02-14",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 227946.864902,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-spizzir-diallo-2026-02-16",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 94272.077905,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-semenis-bolsova-2026-02-16",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 50787.375467000005,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-sonego-berrett-2026-02-16",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 636019.0404449999,
+    "is_partition": false
+  },
+  {
+    "slug": "how-long-will-the-dhs-shutdown-last",
+    "pcd": 1.3025000000000002,
+    "sum_prices": 2.3025,
+    "dutch_book_pct": 1.3025000000000002,
+    "n_markets": 5,
+    "total_vol": 1234157.7271049998,
+    "is_partition": false
+  },
+  {
+    "slug": "lol-gen-fox1-2026-02-21",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 3978844.0808759998,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-krejcik-anisimo-2026-02-16",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 95702.963658,
+    "is_partition": true
+  },
+  {
+    "slug": "will-megaeth-launch-a-token-by",
+    "pcd": 0.47250000000000014,
+    "sum_prices": 1.4725000000000001,
+    "dutch_book_pct": 0.47250000000000014,
+    "n_markets": 2,
+    "total_vol": 234120.654073,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-andreev-kasatki-2026-02-17",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 74309.546434,
+    "is_partition": true
+  },
+  {
+    "slug": "wta-bencic-bejlek-2026-02-17",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 203865.654198,
+    "is_partition": true
+  },
+  {
+    "slug": "which-nfl-players-will-be-traded",
+    "pcd": -0.40349999999999997,
+    "sum_prices": 0.5965,
+    "dutch_book_pct": 0.40349999999999997,
+    "n_markets": 3,
+    "total_vol": 44688.21576399999,
+    "is_partition": false
+  },
+  {
+    "slug": "dota2-lynx-vpp-2026-02-17",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 38367.884793000005,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-rybakin-ruzic-2026-02-18",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 474619.044557,
+    "is_partition": true
+  },
+  {
+    "slug": "highest-domestically-grossing-march-film-on-april-30",
+    "pcd": -0.0020000000000000018,
+    "sum_prices": 0.998,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 2,
+    "total_vol": 78247.18454899998,
+    "is_partition": false
+  },
+  {
+    "slug": "dota2-pain-og-2026-02-18",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 118699.24261300001,
+    "is_partition": false
+  },
+  {
+    "slug": "eurovision-2026-top-10",
+    "pcd": 1.065,
+    "sum_prices": 2.065,
+    "dutch_book_pct": 1.065,
+    "n_markets": 4,
+    "total_vol": 52395.963217000004,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-yaw-4m1-2026-02-18",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 122466.56162700002,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-keyd-fa-2026-02-18",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 199762.110157,
+    "is_partition": false
+  },
+  {
+    "slug": "predictfun-fdv-above-one-day-after-launch",
+    "pcd": 3.0725,
+    "sum_prices": 4.0725,
+    "dutch_book_pct": 3.0725,
+    "n_markets": 11,
+    "total_vol": 3121698.6963099986,
+    "is_partition": false
+  },
+  {
+    "slug": "mls-2026-most-valuable-player",
+    "pcd": -0.32499999999999996,
+    "sum_prices": 0.675,
+    "dutch_book_pct": 0.32499999999999996,
+    "n_markets": 2,
+    "total_vol": 24069.156536000002,
+    "is_partition": false
+  },
+  {
+    "slug": "texas-senate-election-matchup-877",
+    "pcd": -0.028000000000000025,
+    "sum_prices": 0.972,
+    "dutch_book_pct": 0.028000000000000025,
+    "n_markets": 5,
+    "total_vol": 640655.9146550001,
+    "is_partition": false
+  },
+  {
+    "slug": "mlb-2026-nl-hank-aaron-winner",
+    "pcd": -0.66,
+    "sum_prices": 0.33999999999999997,
+    "dutch_book_pct": 0.66,
+    "n_markets": 2,
+    "total_vol": 110559.26478299998,
+    "is_partition": true
+  },
+  {
+    "slug": "cs2-bbb-rstr-2026-02-20",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 44664.183871,
+    "is_partition": false
+  },
+  {
+    "slug": "mlb-2026-american-league-champion",
+    "pcd": -0.08099999999999974,
+    "sum_prices": 0.9190000000000003,
+    "dutch_book_pct": 0.08099999999999974,
+    "n_markets": 14,
+    "total_vol": 3272386.706258,
+    "is_partition": true
+  },
+  {
+    "slug": "mlb-2026-national-league-champion",
+    "pcd": -0.4335000000000001,
+    "sum_prices": 0.5664999999999999,
+    "dutch_book_pct": 0.4335000000000001,
+    "n_markets": 13,
+    "total_vol": 2578447.485441,
+    "is_partition": true
+  },
+  {
+    "slug": "will-russia-capture-all-of-kostyantynivka-by",
+    "pcd": -0.45499999999999996,
+    "sum_prices": 0.545,
+    "dutch_book_pct": 0.45499999999999996,
+    "n_markets": 2,
+    "total_vol": 64211.300501000005,
+    "is_partition": false
+  },
+  {
+    "slug": "will-russia-capture-all-of-lyman-by",
+    "pcd": -0.15999999999999992,
+    "sum_prices": 0.8400000000000001,
+    "dutch_book_pct": 0.15999999999999992,
+    "n_markets": 2,
+    "total_vol": 124432.92326599993,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-boss-zomb-2026-02-20",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 40264.275064,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-encea1-home-2026-02-20",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 28536.174908,
+    "is_partition": false
+  },
+  {
+    "slug": "uefa-champions-league-most-player-of-the-match-awards",
+    "pcd": -0.21799999999999997,
+    "sum_prices": 0.782,
+    "dutch_book_pct": 0.21799999999999997,
+    "n_markets": 3,
+    "total_vol": 53971.73764199999,
+    "is_partition": true
+  },
+  {
+    "slug": "dublin-central-by-election-winner",
+    "pcd": -0.858,
+    "sum_prices": 0.142,
+    "dutch_book_pct": 0.858,
+    "n_markets": 5,
+    "total_vol": 729175.2684000001,
+    "is_partition": true
+  },
+  {
+    "slug": "cs2-imp11-gls1-2026-02-26",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 174949.949311,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-shin-bhe-2026-02-26",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 36779.521958,
+    "is_partition": false
+  },
+  {
+    "slug": "trump-declassifies-new-ufo-files-by-march-31",
+    "pcd": -0.29500000000000004,
+    "sum_prices": 0.705,
+    "dutch_book_pct": 0.29500000000000004,
+    "n_markets": 2,
+    "total_vol": 162577.59120600007,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-shin-ldp-2026-02-21",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 52496.704756,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-fils-lehecka-2026-02-23",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 575634.329322,
+    "is_partition": true
+  },
+  {
+    "slug": "atp-machac-shapova-2026-02-23",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 22536.411476,
+    "is_partition": true
+  },
+  {
+    "slug": "cs2-thunde-skele-2026-02-23",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 36013.892401,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-kuzmano-crawfor-2026-02-22",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 105332.63184300001,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-all-ill-2026-02-22",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 29973.831814999998,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-townsen-grachev-2026-02-23",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 151677.859701,
+    "is_partition": false
+  },
+  {
+    "slug": "will-hibachi-launch-a-token-by",
+    "pcd": -0.6950000000000001,
+    "sum_prices": 0.305,
+    "dutch_book_pct": 0.6950000000000001,
+    "n_markets": 2,
+    "total_vol": 322152.4428010001,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-fuzos-nxs1-2026-02-26",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 118267.57134299999,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-home-oxuji-2026-02-23",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 32485.43078,
+    "is_partition": false
+  },
+  {
+    "slug": "elon-musk-of-tweets-april-2026",
+    "pcd": 0.11149999999999993,
+    "sum_prices": 1.1115,
+    "dutch_book_pct": 0.11149999999999993,
+    "n_markets": 51,
+    "total_vol": 4531851.461342001,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-arango-bouzkov-2026-02-25",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 124037.67631399998,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-tornadoes-in-the-us-in-2026",
+    "pcd": -0.42999999999999994,
+    "sum_prices": 0.5700000000000001,
+    "dutch_book_pct": 0.42999999999999994,
+    "n_markets": 2,
+    "total_vol": 26060.81892,
+    "is_partition": false
+  },
+  {
+    "slug": "uefa-europa-conference-league-most-goal-contributions",
+    "pcd": -0.2005,
+    "sum_prices": 0.7995,
+    "dutch_book_pct": 0.2005,
+    "n_markets": 2,
+    "total_vol": 32061.367972999997,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-kukushk-gaston-2026-02-26",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 35056.797866,
+    "is_partition": false
+  },
+  {
+    "slug": "lol-wb-blg-2026-02-27",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 3729405.090355,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-skele-mf-2026-02-26",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 54938.049232000005,
+    "is_partition": false
+  },
+  {
+    "slug": "grvt-fdv-above-one-day-after-launch",
+    "pcd": 1.286,
+    "sum_prices": 2.286,
+    "dutch_book_pct": 1.286,
+    "n_markets": 7,
+    "total_vol": 214454.1080980001,
+    "is_partition": false
+  },
+  {
+    "slug": "sentio-fdv-above-one-day-after-launch",
+    "pcd": 0.7650000000000001,
+    "sum_prices": 1.7650000000000001,
+    "dutch_book_pct": 0.7650000000000001,
+    "n_markets": 2,
+    "total_vol": 70011.15302900005,
+    "is_partition": false
+  },
+  {
+    "slug": "will-usd-hit-iranian-rials-by-march-31",
+    "pcd": -0.981,
+    "sum_prices": 0.019000000000000003,
+    "dutch_book_pct": 0.981,
+    "n_markets": 4,
+    "total_vol": 378929.100916,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-times-will-the-us-strike-somalia-in-march",
+    "pcd": -0.0030000000000000027,
+    "sum_prices": 0.997,
+    "dutch_book_pct": 0.0030000000000000027,
+    "n_markets": 2,
+    "total_vol": 790787.2381230001,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-different-countries-will-israel-strike-in-march",
+    "pcd": -0.01200000000000001,
+    "sum_prices": 0.988,
+    "dutch_book_pct": 0.01200000000000001,
+    "n_markets": 2,
+    "total_vol": 347444.5803240002,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-ast-omega1-2026-02-26",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 27449.74589,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-march-1st-2nd-3rd-hottest-on-record",
+    "pcd": -0.0020000000000000018,
+    "sum_prices": 0.998,
+    "dutch_book_pct": 0.0020000000000000018,
+    "n_markets": 4,
+    "total_vol": 279335.432898,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-tornadoes-in-the-us-in-march",
+    "pcd": 0.001000000000000112,
+    "sum_prices": 1.0010000000000001,
+    "dutch_book_pct": 0.001000000000000112,
+    "n_markets": 3,
+    "total_vol": 180337.88986600004,
+    "is_partition": false
+  },
+  {
+    "slug": "lol-nsea-ktc-2026-03-02",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 1673672.821787,
+    "is_partition": false
+  },
+  {
+    "slug": "next-prime-minister-of-denmark-after-parliamentary-election",
+    "pcd": -0.0345000000000002,
+    "sum_prices": 0.9654999999999998,
+    "dutch_book_pct": 0.0345000000000002,
+    "n_markets": 7,
+    "total_vol": 5363489.381439004,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-fuzos-ecf-2026-03-02",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 156982.228814,
+    "is_partition": false
+  },
+  {
+    "slug": "us-x-iran-diplomatic-meeting-by-833",
+    "pcd": -0.020000000000000018,
+    "sum_prices": 0.98,
+    "dutch_book_pct": 0.020000000000000018,
+    "n_markets": 3,
+    "total_vol": 1230190.8259960008,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-trump-talk-to-in-march",
+    "pcd": -0.894,
+    "sum_prices": 0.10600000000000001,
+    "dutch_book_pct": 0.894,
+    "n_markets": 3,
+    "total_vol": 2246646.122902,
+    "is_partition": false
+  },
+  {
+    "slug": "march-2026-temperature-increase-c",
+    "pcd": -0.015499999999999958,
+    "sum_prices": 0.9845,
+    "dutch_book_pct": 0.015499999999999958,
+    "n_markets": 6,
+    "total_vol": 222883.10196499998,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-mis-imperi-2026-02-28",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 129089.372432,
+    "is_partition": false
+  },
+  {
+    "slug": "us-x-iran-ceasefire-by",
+    "pcd": 1.6099999999999999,
+    "sum_prices": 2.61,
+    "dutch_book_pct": 1.6099999999999999,
+    "n_markets": 6,
+    "total_vol": 78077037.26426774,
+    "is_partition": false
+  },
+  {
+    "slug": "iran-x-israelus-conflict-ends-by",
+    "pcd": 1.6695000000000002,
+    "sum_prices": 2.6695,
+    "dutch_book_pct": 1.6695000000000002,
+    "n_markets": 6,
+    "total_vol": 11242218.660904977,
+    "is_partition": false
+  },
+  {
+    "slug": "which-countries-will-iran-strike-in-march",
+    "pcd": -0.049000000000000155,
+    "sum_prices": 0.9509999999999998,
+    "dutch_book_pct": 0.049000000000000155,
+    "n_markets": 10,
+    "total_vol": 3756444.8928860025,
+    "is_partition": false
+  },
+  {
+    "slug": "trump-announces-end-of-military-operations-against-iran-by",
+    "pcd": 0.7799999999999998,
+    "sum_prices": 1.7799999999999998,
+    "dutch_book_pct": 0.7799999999999998,
+    "n_markets": 4,
+    "total_vol": 10167018.741782948,
+    "is_partition": false
+  },
+  {
+    "slug": "will-the-kharg-island-oil-terminal-be-hit-by-march-31",
+    "pcd": -0.625,
+    "sum_prices": 0.375,
+    "dutch_book_pct": 0.625,
+    "n_markets": 2,
+    "total_vol": 812444.9479750003,
+    "is_partition": false
+  },
+  {
+    "slug": "iran-leader-end-of-2026",
+    "pcd": 0.03599999999999959,
+    "sum_prices": 1.0359999999999996,
+    "dutch_book_pct": 0.03599999999999959,
+    "n_markets": 30,
+    "total_vol": 5814395.186295001,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-jon-gentzsc-2026-03-02",
+    "pcd": 3.5,
+    "sum_prices": 4.5,
+    "dutch_book_pct": 3.5,
+    "n_markets": 9,
+    "total_vol": 718368.32082,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-coppeja-xilas-2026-03-02",
+    "pcd": 2.5,
+    "sum_prices": 3.5,
+    "dutch_book_pct": 2.5,
+    "n_markets": 7,
+    "total_vol": 311766.653944,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-bruncli-mrva-2026-03-02",
+    "pcd": 3.5,
+    "sum_prices": 4.5,
+    "dutch_book_pct": 3.5,
+    "n_markets": 9,
+    "total_vol": 413899.15987200005,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-fuzos-ef1-2026-03-02",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 153667.216056,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-enter-iran-by-june-30",
+    "pcd": -0.709,
+    "sum_prices": 0.29100000000000004,
+    "dutch_book_pct": 0.709,
+    "n_markets": 6,
+    "total_vol": 213916.72656600008,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-krespo-pb2-2026-03-02",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 130654.68626399999,
+    "is_partition": false
+  },
+  {
+    "slug": "val-pr1-gm-2026-03-02",
+    "pcd": 1.5,
+    "sum_prices": 2.5,
+    "dutch_book_pct": 1.5,
+    "n_markets": 5,
+    "total_vol": 485277.535733,
+    "is_partition": false
+  },
+  {
+    "slug": "val-nrg-tl1-2026-03-02",
+    "pcd": 1.5,
+    "sum_prices": 2.5,
+    "dutch_book_pct": 1.5,
+    "n_markets": 5,
+    "total_vol": 304465.656788,
+    "is_partition": false
+  },
+  {
+    "slug": "val-edg1-g21-2026-03-03",
+    "pcd": 1.5,
+    "sum_prices": 2.5,
+    "dutch_book_pct": 1.5,
+    "n_markets": 5,
+    "total_vol": 296733.792743,
+    "is_partition": false
+  },
+  {
+    "slug": "val-xlg-t1-2026-03-03",
+    "pcd": 1.5,
+    "sum_prices": 2.5,
+    "dutch_book_pct": 1.5,
+    "n_markets": 5,
+    "total_vol": 210914.446718,
+    "is_partition": false
+  },
+  {
+    "slug": "j2100-mon-tsc-2026-03-29-more-markets",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 42638.169068999996,
+    "is_partition": false
+  },
+  {
+    "slug": "j2100-roa-fuk-2026-03-29-more-markets",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 21524.022314,
+    "is_partition": false
+  },
+  {
+    "slug": "lol-tos-ve-2026-03-02",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 300327.596103,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-finger1-csdiil-2026-03-03",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 111027.409971,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-zerote-ww-2026-03-03",
+    "pcd": 1.5,
+    "sum_prices": 2.5,
+    "dutch_book_pct": 1.5,
+    "n_markets": 5,
+    "total_vol": 284714.539545,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-carboni-sakella-2026-03-03",
+    "pcd": 1.0,
+    "sum_prices": 2.0,
+    "dutch_book_pct": 1.0,
+    "n_markets": 4,
+    "total_vol": 380980.65127599996,
+    "is_partition": false
+  },
+  {
+    "slug": "next-leader-out-of-power-before-2027-795",
+    "pcd": 0.030999999999999917,
+    "sum_prices": 1.031,
+    "dutch_book_pct": 0.030999999999999917,
+    "n_markets": 25,
+    "total_vol": 3497894.430393999,
+    "is_partition": false
+  },
+  {
+    "slug": "ncaa-tournament-national-champion-conference",
+    "pcd": -0.5295,
+    "sum_prices": 0.47050000000000003,
+    "dutch_book_pct": 0.5295,
+    "n_markets": 2,
+    "total_vol": 83911.204615,
+    "is_partition": true
+  },
+  {
+    "slug": "cambria-fdv-above-one-day-after-launch",
+    "pcd": -0.29000000000000004,
+    "sum_prices": 0.71,
+    "dutch_book_pct": 0.29000000000000004,
+    "n_markets": 2,
+    "total_vol": 48556.50562999999,
+    "is_partition": false
+  },
+  {
+    "slug": "probable-fdv-above-one-day-after-launch",
+    "pcd": -0.8175,
+    "sum_prices": 0.1825,
+    "dutch_book_pct": 0.8175,
+    "n_markets": 2,
+    "total_vol": 87631.85843300003,
+    "is_partition": false
+  },
+  {
+    "slug": "ncaab-naismith-coach-of-the-year",
+    "pcd": -0.828,
+    "sum_prices": 0.17200000000000001,
+    "dutch_book_pct": 0.828,
+    "n_markets": 2,
+    "total_vol": 33106.45743000001,
+    "is_partition": false
+  },
+  {
+    "slug": "largest-company-end-of-april-738",
+    "pcd": 0.0029999999999998916,
+    "sum_prices": 1.003,
+    "dutch_book_pct": 0.0029999999999998916,
+    "n_markets": 7,
+    "total_vol": 1265958.4468230004,
+    "is_partition": false
+  },
+  {
+    "slug": "israel-x-hezbollah-ceasefire-by",
+    "pcd": -0.49,
+    "sum_prices": 0.51,
+    "dutch_book_pct": 0.49,
+    "n_markets": 2,
+    "total_vol": 429054.55785699916,
+    "is_partition": false
+  },
+  {
+    "slug": "houthi-strike-on-israel-by-632",
+    "pcd": -0.7165,
+    "sum_prices": 0.2835,
+    "dutch_book_pct": 0.7165,
+    "n_markets": 2,
+    "total_vol": 1355880.1902720053,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-ww-fuzos-2026-03-03",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 201712.49092,
+    "is_partition": false
+  },
+  {
+    "slug": "new-jersey-republican-senate-primary-winner",
+    "pcd": -0.916,
+    "sum_prices": 0.08399999999999999,
+    "dutch_book_pct": 0.916,
+    "n_markets": 4,
+    "total_vol": 393632.111,
+    "is_partition": true
+  },
+  {
+    "slug": "lol-msi-2026-winning-region",
+    "pcd": -0.0010000000000000009,
+    "sum_prices": 0.999,
+    "dutch_book_pct": 0.0010000000000000009,
+    "n_markets": 3,
+    "total_vol": 36165.649681,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-happen-before-kevin-warsh-is-confirmed",
+    "pcd": -0.3579999999999999,
+    "sum_prices": 0.6420000000000001,
+    "dutch_book_pct": 0.3579999999999999,
+    "n_markets": 3,
+    "total_vol": 102355.53113700004,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-finger1-pge-2026-03-04",
+    "pcd": 0.5,
+    "sum_prices": 1.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 3,
+    "total_vol": 151593.079646,
+    "is_partition": false
+  },
+  {
+    "slug": "ncaa-tournament-most-outstanding-player",
+    "pcd": -0.9875,
+    "sum_prices": 0.0125,
+    "dutch_book_pct": 0.9875,
+    "n_markets": 3,
+    "total_vol": 188126.450794,
+    "is_partition": false
+  },
+  {
+    "slug": "will-mrbeast-hit-million-subscribers-by-april-30",
+    "pcd": 1.1555,
+    "sum_prices": 2.1555,
+    "dutch_book_pct": 1.1555,
+    "n_markets": 3,
+    "total_vol": 52301.177717,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-be-confirmed-as-fed-chair",
+    "pcd": 0.0035000000000000586,
+    "sum_prices": 1.0035,
+    "dutch_book_pct": 0.0035000000000000586,
+    "n_markets": 9,
+    "total_vol": 17247916.746274006,
+    "is_partition": false
+  },
+  {
+    "slug": "colombia-chamber-of-representatives-election-second-place",
+    "pcd": -0.9625,
+    "sum_prices": 0.0375,
+    "dutch_book_pct": 0.9625,
+    "n_markets": 2,
+    "total_vol": 80817.36097299997,
+    "is_partition": false
+  },
+  {
+    "slug": "colombia-chamber-of-representatives-election-3rd-place",
+    "pcd": 0.013000000000000123,
+    "sum_prices": 1.0130000000000001,
+    "dutch_book_pct": 0.013000000000000123,
+    "n_markets": 6,
+    "total_vol": 2038559.270058996,
+    "is_partition": false
+  },
+  {
+    "slug": "of-seats-won-by-ph-in-colombia-senate-election",
+    "pcd": -0.24750000000000005,
+    "sum_prices": 0.7525,
+    "dutch_book_pct": 0.24750000000000005,
+    "n_markets": 4,
+    "total_vol": 86035.20458500003,
+    "is_partition": false
+  },
+  {
+    "slug": "hungary-parliamentary-election-popular-vote-winner",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 222773.0168689998,
+    "is_partition": true
+  },
+  {
+    "slug": "hungary-parliamentary-election-popular-vote-margin-of-victory",
+    "pcd": 0.029999999999999805,
+    "sum_prices": 1.0299999999999998,
+    "dutch_book_pct": 0.029999999999999805,
+    "n_markets": 9,
+    "total_vol": 1260372.3743910005,
+    "is_partition": false
+  },
+  {
+    "slug": "nhl-van-col-2026-04-01",
+    "pcd": 0.29499999999999993,
+    "sum_prices": 1.295,
+    "dutch_book_pct": 0.29499999999999993,
+    "n_markets": 3,
+    "total_vol": 599898.6856240014,
+    "is_partition": false
+  },
+  {
+    "slug": "nhl-stl-lak-2026-04-01",
+    "pcd": -0.07000000000000006,
+    "sum_prices": 0.9299999999999999,
+    "dutch_book_pct": 0.07000000000000006,
+    "n_markets": 2,
+    "total_vol": 149430.01160300025,
+    "is_partition": false
+  },
+  {
+    "slug": "nhl-ana-sj-2026-04-01",
+    "pcd": 0.040000000000000036,
+    "sum_prices": 1.04,
+    "dutch_book_pct": 0.040000000000000036,
+    "n_markets": 2,
+    "total_vol": 297843.5140509991,
+    "is_partition": false
+  },
+  {
+    "slug": "ufc-who-will-max-holloway-fight-next-791",
+    "pcd": -0.8,
+    "sum_prices": 0.2,
+    "dutch_book_pct": 0.8,
+    "n_markets": 2,
+    "total_vol": 40785.326197999995,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-die-in-the-boys-season-5",
+    "pcd": 0.29499999999999993,
+    "sum_prices": 1.295,
+    "dutch_book_pct": 0.29499999999999993,
+    "n_markets": 3,
+    "total_vol": 60993.10087,
+    "is_partition": false
+  },
+  {
+    "slug": "which-teams-will-qualify-to-iem-cologne-major-2026",
+    "pcd": 0.375,
+    "sum_prices": 1.375,
+    "dutch_book_pct": 0.375,
+    "n_markets": 2,
+    "total_vol": 22943.740442,
+    "is_partition": false
+  },
+  {
+    "slug": "who-will-be-the-next-to-leave-the-trump-cabinet-967",
+    "pcd": -0.05500000000000005,
+    "sum_prices": 0.945,
+    "dutch_book_pct": 0.05500000000000005,
+    "n_markets": 9,
+    "total_vol": 2473720.5136799994,
+    "is_partition": false
+  },
+  {
+    "slug": "which-artists-will-have-1-hits-in-april",
+    "pcd": -0.685,
+    "sum_prices": 0.315,
+    "dutch_book_pct": 0.685,
+    "n_markets": 2,
+    "total_vol": 62286.13735900001,
+    "is_partition": false
+  },
+  {
+    "slug": "oklahoma-republican-senate-primary-winner",
+    "pcd": -0.08699999999999997,
+    "sum_prices": 0.913,
+    "dutch_book_pct": 0.08699999999999997,
+    "n_markets": 2,
+    "total_vol": 47361.623329999995,
+    "is_partition": true
+  },
+  {
+    "slug": "gpt-5pt5-released-by",
+    "pcd": 0.3340000000000001,
+    "sum_prices": 1.334,
+    "dutch_book_pct": 0.3340000000000001,
+    "n_markets": 2,
+    "total_vol": 293970.98300499993,
+    "is_partition": false
+  },
+  {
+    "slug": "epl-mac-cry-2026-03-21",
+    "pcd": -0.16349999999999998,
+    "sum_prices": 0.8365,
+    "dutch_book_pct": 0.16349999999999998,
+    "n_markets": 2,
+    "total_vol": 57626.014039999936,
+    "is_partition": false
+  },
+  {
+    "slug": "surf-fdv-above-one-day-after-launch",
+    "pcd": 0.15500000000000003,
+    "sum_prices": 1.155,
+    "dutch_book_pct": 0.15500000000000003,
+    "n_markets": 2,
+    "total_vol": 93714.35511199999,
+    "is_partition": false
+  },
+  {
+    "slug": "iran-leadership-change-by",
+    "pcd": -0.21000000000000008,
+    "sum_prices": 0.7899999999999999,
+    "dutch_book_pct": 0.21000000000000008,
+    "n_markets": 4,
+    "total_vol": 5893721.721056007,
+    "is_partition": false
+  },
+  {
+    "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-in-march",
+    "pcd": -0.967,
+    "sum_prices": 0.033,
+    "dutch_book_pct": 0.967,
+    "n_markets": 4,
+    "total_vol": 648673.7387450002,
+    "is_partition": false
+  },
+  {
+    "slug": "eurovision-2026-jury-winner",
+    "pcd": -0.044500000000000095,
+    "sum_prices": 0.9554999999999999,
+    "dutch_book_pct": 0.044500000000000095,
+    "n_markets": 19,
+    "total_vol": 684113.607957,
+    "is_partition": true
+  },
+  {
+    "slug": "bra2-lon-cui-2026-04-01",
+    "pcd": 0.006000000000000005,
+    "sum_prices": 1.006,
+    "dutch_book_pct": 0.006000000000000005,
+    "n_markets": 3,
+    "total_vol": 94687.58972200006,
+    "is_partition": false
+  },
+  {
+    "slug": "bra2-csc-vln-2026-04-01",
+    "pcd": 0.0030000000000001137,
+    "sum_prices": 1.0030000000000001,
+    "dutch_book_pct": 0.0030000000000001137,
+    "n_markets": 3,
+    "total_vol": 55538.45731900001,
+    "is_partition": false
+  },
+  {
+    "slug": "bra2-crb-csc-2026-04-01",
+    "pcd": -0.008499999999999952,
+    "sum_prices": 0.9915,
+    "dutch_book_pct": 0.008499999999999952,
+    "n_markets": 2,
+    "total_vol": 37265.89029700002,
+    "is_partition": false
+  },
+  {
+    "slug": "avg-of-ships-transiting-strait-of-hormuz-end-of-march",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 3,
+    "total_vol": 1595472.028855,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-nflx-hit-in-april-2026",
+    "pcd": -0.9795,
+    "sum_prices": 0.020500000000000004,
+    "dutch_book_pct": 0.9795,
+    "n_markets": 3,
+    "total_vol": 123303.790158,
+    "is_partition": false
+  },
+  {
+    "slug": "mojtaba-khamenei-public-appearance-by",
+    "pcd": -0.43999999999999995,
+    "sum_prices": 0.56,
+    "dutch_book_pct": 0.43999999999999995,
+    "n_markets": 2,
+    "total_vol": 811404.0778139995,
+    "is_partition": false
+  },
+  {
+    "slug": "sachsen-anhalt-parliamentary-elections-2nd-place",
+    "pcd": -0.11650000000000005,
+    "sum_prices": 0.8835,
+    "dutch_book_pct": 0.11650000000000005,
+    "n_markets": 2,
+    "total_vol": 36223.66873800001,
+    "is_partition": false
+  },
+  {
+    "slug": "military-action-against-iran-ends-by",
+    "pcd": 0.55,
+    "sum_prices": 1.55,
+    "dutch_book_pct": 0.55,
+    "n_markets": 3,
+    "total_vol": 301981.0155300001,
+    "is_partition": false
+  },
+  {
+    "slug": "save-act-becomes-law-by",
+    "pcd": -0.7615,
+    "sum_prices": 0.23850000000000002,
+    "dutch_book_pct": 0.7615,
+    "n_markets": 2,
+    "total_vol": 242241.26530199987,
+    "is_partition": false
+  },
+  {
+    "slug": "us-escorts-commercial-ship-through-hormuz-by-march-31",
+    "pcd": -0.6950000000000001,
+    "sum_prices": 0.305,
+    "dutch_book_pct": 0.6950000000000001,
+    "n_markets": 2,
+    "total_vol": 2596062.1038460117,
+    "is_partition": false
+  },
+  {
+    "slug": "march-inflation-us-annual-higher-brackets",
+    "pcd": 0.014499999999999957,
+    "sum_prices": 1.0145,
+    "dutch_book_pct": 0.014499999999999957,
+    "n_markets": 9,
+    "total_vol": 871251.9537749998,
+    "is_partition": false
+  },
+  {
+    "slug": "march-inflation-us-monthly",
+    "pcd": -0.00649999999999995,
+    "sum_prices": 0.9935,
+    "dutch_book_pct": 0.00649999999999995,
+    "n_markets": 6,
+    "total_vol": 520457.55851300014,
+    "is_partition": false
+  },
+  {
+    "slug": "price-of-dozen-eggs-in-march-741",
+    "pcd": -0.3430000000000002,
+    "sum_prices": 0.6569999999999998,
+    "dutch_book_pct": 0.3430000000000002,
+    "n_markets": 7,
+    "total_vol": 372737.949542,
+    "is_partition": false
+  },
+  {
+    "slug": "internet-access-restored-in-iran-by",
+    "pcd": -0.8535,
+    "sum_prices": 0.1465,
+    "dutch_book_pct": 0.8535,
+    "n_markets": 2,
+    "total_vol": 114419.02515199996,
+    "is_partition": false
+  },
+  {
+    "slug": "of-seats-won-by-sds-in-slovenian-parliamentary-election",
+    "pcd": 0.0004999999999999449,
+    "sum_prices": 1.0005,
+    "dutch_book_pct": 0.0004999999999999449,
+    "n_markets": 2,
+    "total_vol": 83544.90438399998,
+    "is_partition": false
+  },
+  {
+    "slug": "which-parties-will-be-part-of-the-next-government-of-slovenia",
+    "pcd": 0.9950000000000001,
+    "sum_prices": 1.995,
+    "dutch_book_pct": 0.9950000000000001,
+    "n_markets": 4,
+    "total_vol": 66532.03978400004,
+    "is_partition": false
+  },
+  {
+    "slug": "turnout-in-2026-slovenian-parliamentary-election",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 234765.24201300004,
+    "is_partition": false
+  },
+  {
+    "slug": "of-seats-won-by-tisza-in-hungary-parliamentary-election",
+    "pcd": 0.044499999999999984,
+    "sum_prices": 1.0445,
+    "dutch_book_pct": 0.044499999999999984,
+    "n_markets": 8,
+    "total_vol": 1339433.1345689998,
+    "is_partition": false
+  },
+  {
+    "slug": "of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election",
+    "pcd": -0.18999999999999995,
+    "sum_prices": 0.81,
+    "dutch_book_pct": 0.18999999999999995,
+    "n_markets": 5,
+    "total_vol": 531541.968775,
+    "is_partition": false
+  },
+  {
+    "slug": "us-x-cuba-economic-deal-by",
+    "pcd": -0.5,
+    "sum_prices": 0.5,
+    "dutch_book_pct": 0.5,
+    "n_markets": 2,
+    "total_vol": 90565.98019000003,
+    "is_partition": false
+  },
+  {
+    "slug": "will-us-crude-oil-reserves-fall-to-by-may-1",
+    "pcd": -0.5994999999999999,
+    "sum_prices": 0.4005,
+    "dutch_book_pct": 0.5994999999999999,
+    "n_markets": 6,
+    "total_vol": 260852.7206499998,
+    "is_partition": false
+  },
+  {
+    "slug": "billions-fdv-above-one-day-after-launch",
+    "pcd": 0.27849999999999997,
+    "sum_prices": 1.2785,
+    "dutch_book_pct": 0.27849999999999997,
+    "n_markets": 3,
+    "total_vol": 72285.739291,
+    "is_partition": false
+  },
+  {
+    "slug": "hungary-election-tisza-wins-at-least-seats",
+    "pcd": 1.44,
+    "sum_prices": 2.44,
+    "dutch_book_pct": 1.44,
+    "n_markets": 4,
+    "total_vol": 71410.51449500001,
+    "is_partition": false
+  },
+  {
+    "slug": "hungary-election-fidesz-kdnp-wins-seats",
+    "pcd": -0.039999999999999925,
+    "sum_prices": 0.9600000000000001,
+    "dutch_book_pct": 0.039999999999999925,
+    "n_markets": 3,
+    "total_vol": 165652.92519599997,
+    "is_partition": false
+  },
+  {
+    "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+    "pcd": -0.18000000000000005,
+    "sum_prices": 0.82,
+    "dutch_book_pct": 0.18000000000000005,
+    "n_markets": 4,
+    "total_vol": 10895907.24002586,
+    "is_partition": false
+  },
+  {
+    "slug": "bab-el-mandeb-strait-effectively-closed-by",
+    "pcd": -0.8525,
+    "sum_prices": 0.1475,
+    "dutch_book_pct": 0.8525,
+    "n_markets": 2,
+    "total_vol": 455649.29894799937,
+    "is_partition": false
+  },
+  {
+    "slug": "the-super-mario-galaxy-movie-opening-weekend-box-office",
+    "pcd": 0.016000000000000014,
+    "sum_prices": 1.016,
+    "dutch_book_pct": 0.016000000000000014,
+    "n_markets": 6,
+    "total_vol": 458177.78987200034,
+    "is_partition": false
+  },
+  {
+    "slug": "israel-ground-operation-in-iran-confirmed-by",
+    "pcd": -0.8734999999999999,
+    "sum_prices": 0.1265,
+    "dutch_book_pct": 0.8734999999999999,
+    "n_markets": 2,
+    "total_vol": 282698.62383099983,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-fide-candidates-tournament-winner",
+    "pcd": 0.0129999999999999,
+    "sum_prices": 1.013,
+    "dutch_book_pct": 0.0129999999999999,
+    "n_markets": 8,
+    "total_vol": 2304039.9772929987,
+    "is_partition": true
+  },
+  {
+    "slug": "israel-military-action-in-gaza-on",
+    "pcd": -0.688,
+    "sum_prices": 0.312,
+    "dutch_book_pct": 0.688,
+    "n_markets": 2,
+    "total_vol": 1192515.0069620002,
+    "is_partition": false
+  },
+  {
+    "slug": "saudi-arabia-military-action-against-yemen-by",
+    "pcd": -0.859,
+    "sum_prices": 0.14100000000000001,
+    "dutch_book_pct": 0.859,
+    "n_markets": 2,
+    "total_vol": 51759.981725000005,
+    "is_partition": false
+  },
+  {
+    "slug": "houthi-military-action-against-israel-by",
+    "pcd": -0.345,
+    "sum_prices": 0.655,
+    "dutch_book_pct": 0.345,
+    "n_markets": 2,
+    "total_vol": 99418.69067800007,
+    "is_partition": false
+  },
+  {
+    "slug": "will-another-country-conduct-military-action-against-iran-by",
+    "pcd": -0.6799999999999999,
+    "sum_prices": 0.32,
+    "dutch_book_pct": 0.6799999999999999,
+    "n_markets": 2,
+    "total_vol": 246843.80356999976,
+    "is_partition": false
+  },
+  {
+    "slug": "eurovision-2026-televote-winner",
+    "pcd": -0.13349999999999984,
+    "sum_prices": 0.8665000000000002,
+    "dutch_book_pct": 0.13349999999999984,
+    "n_markets": 26,
+    "total_vol": 5076737.627292003,
+    "is_partition": true
+  },
+  {
+    "slug": "fed-decision-in-july-181",
+    "pcd": -0.010500000000000065,
+    "sum_prices": 0.9894999999999999,
+    "dutch_book_pct": 0.010500000000000065,
+    "n_markets": 5,
+    "total_vol": 3186838.868535005,
+    "is_partition": false
+  },
+  {
+    "slug": "peru-presidential-election-first-round-winner",
+    "pcd": -0.13750000000000007,
+    "sum_prices": 0.8624999999999999,
+    "dutch_book_pct": 0.13750000000000007,
+    "n_markets": 4,
+    "total_vol": 52165.850802000015,
+    "is_partition": true
+  },
+  {
+    "slug": "2nd-largest-company-end-of-april",
+    "pcd": -0.006500000000000061,
+    "sum_prices": 0.9934999999999999,
+    "dutch_book_pct": 0.006500000000000061,
+    "n_markets": 7,
+    "total_vol": 990194.394897002,
+    "is_partition": false
+  },
+  {
+    "slug": "3rd-largest-company-end-of-april",
+    "pcd": -0.685,
+    "sum_prices": 0.315,
+    "dutch_book_pct": 0.685,
+    "n_markets": 4,
+    "total_vol": 691065.605202001,
+    "is_partition": false
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-april",
+    "pcd": 0.01100000000000012,
+    "sum_prices": 1.0110000000000001,
+    "dutch_book_pct": 0.01100000000000012,
+    "n_markets": 13,
+    "total_vol": 2899966.7176019996,
+    "is_partition": false
+  },
+  {
+    "slug": "which-company-has-the-third-best-ai-model-end-of-april",
+    "pcd": -0.28200000000000014,
+    "sum_prices": 0.7179999999999999,
+    "dutch_book_pct": 0.28200000000000014,
+    "n_markets": 4,
+    "total_vol": 70651.908557,
+    "is_partition": false
+  },
+  {
+    "slug": "which-company-has-the-1-ai-model-end-of-april-style-control-on",
+    "pcd": 0.010000000000000009,
+    "sum_prices": 1.01,
+    "dutch_book_pct": 0.010000000000000009,
+    "n_markets": 12,
+    "total_vol": 838585.1061790001,
+    "is_partition": false
+  },
+  {
+    "slug": "which-candidates-advance-to-2026-peru-presidential-runoff",
+    "pcd": -0.612,
+    "sum_prices": 0.388,
+    "dutch_book_pct": 0.612,
+    "n_markets": 3,
+    "total_vol": 114171.537021,
+    "is_partition": true
+  },
+  {
+    "slug": "hungary-parliamentary-election-2nd-place",
+    "pcd": -0.02650000000000008,
+    "sum_prices": 0.9734999999999999,
+    "dutch_book_pct": 0.02650000000000008,
+    "n_markets": 4,
+    "total_vol": 70568.28094899999,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-the-ethereum-implied-volatility-index-hit-by-april-30",
+    "pcd": 0.4950000000000001,
+    "sum_prices": 1.495,
+    "dutch_book_pct": 0.4950000000000001,
+    "n_markets": 5,
+    "total_vol": 187632.63678499998,
+    "is_partition": false
+  },
+  {
+    "slug": "fl1-psg-tou-2026-04-03",
+    "pcd": -0.16000000000000003,
+    "sum_prices": 0.84,
+    "dutch_book_pct": 0.16000000000000003,
+    "n_markets": 2,
+    "total_vol": 67710.51849899997,
+    "is_partition": false
+  },
+  {
+    "slug": "mls-col-mia-2026-04-18-more-markets",
+    "pcd": -0.040000000000000036,
+    "sum_prices": 0.96,
+    "dutch_book_pct": 0.040000000000000036,
+    "n_markets": 2,
+    "total_vol": 22876.78,
+    "is_partition": false
+  },
+  {
+    "slug": "j1100-hol-rey-2026-04-19-more-markets",
+    "pcd": -0.025000000000000022,
+    "sum_prices": 0.975,
+    "dutch_book_pct": 0.025000000000000022,
+    "n_markets": 2,
+    "total_vol": 23527.699999999997,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-iran-conduct-military-action-against-by-april-30",
+    "pcd": 0.3799999999999999,
+    "sum_prices": 1.38,
+    "dutch_book_pct": 0.3799999999999999,
+    "n_markets": 6,
+    "total_vol": 90196.80785200003,
+    "is_partition": false
+  },
+  {
+    "slug": "which-countries-will-conduct-military-action-against-iran-by-april-30",
+    "pcd": -0.596,
+    "sum_prices": 0.404,
+    "dutch_book_pct": 0.596,
+    "n_markets": 7,
+    "total_vol": 639909.875166,
+    "is_partition": false
+  },
+  {
+    "slug": "terrebone-by-election-winner",
+    "pcd": -0.020000000000000018,
+    "sum_prices": 0.98,
+    "dutch_book_pct": 0.020000000000000018,
+    "n_markets": 2,
+    "total_vol": 30084.030718999995,
+    "is_partition": true
+  },
+  {
+    "slug": "measles-cases-in-us-by-april-30",
+    "pcd": 1.0300000000000002,
+    "sum_prices": 2.0300000000000002,
+    "dutch_book_pct": 1.0300000000000002,
+    "n_markets": 3,
+    "total_vol": 61745.185086,
+    "is_partition": false
+  },
+  {
+    "slug": "donald-trump-of-truth-social-posts-march-27-april-3",
+    "pcd": -0.010499999999999954,
+    "sum_prices": 0.9895,
+    "dutch_book_pct": 0.010499999999999954,
+    "n_markets": 4,
+    "total_vol": 183058.87580500002,
+    "is_partition": false
+  },
+  {
+    "slug": "white-house-of-tweets-march-27-april-3-2026",
+    "pcd": -0.738,
+    "sum_prices": 0.262,
+    "dutch_book_pct": 0.738,
+    "n_markets": 3,
+    "total_vol": 74789.20054900002,
+    "is_partition": false
+  },
+  {
+    "slug": "elon-musk-of-tweets-march-27-april-3",
+    "pcd": -0.011500000000000177,
+    "sum_prices": 0.9884999999999998,
+    "dutch_book_pct": 0.011500000000000177,
+    "n_markets": 10,
+    "total_vol": 16781325.748009007,
+    "is_partition": false
+  },
+  {
+    "slug": "avg-of-ships-transiting-strait-of-hormuz-on-april-3",
+    "pcd": -1.1102230246251565e-16,
+    "sum_prices": 0.9999999999999999,
+    "dutch_book_pct": 1.1102230246251565e-16,
+    "n_markets": 4,
+    "total_vol": 366013.5673899999,
+    "is_partition": false
+  },
+  {
+    "slug": "israel-military-action-against-beirut-on-522",
+    "pcd": 0.631,
+    "sum_prices": 1.631,
+    "dutch_book_pct": 0.631,
+    "n_markets": 2,
+    "total_vol": 24868.216900999993,
+    "is_partition": false
+  },
+  {
+    "slug": "will-usd-hit-iranian-rials-by-april-30",
+    "pcd": 0.18500000000000005,
+    "sum_prices": 1.185,
+    "dutch_book_pct": 0.18500000000000005,
+    "n_markets": 3,
+    "total_vol": 35333.40385,
+    "is_partition": false
+  },
+  {
+    "slug": "iran-military-action-against-by-april-30",
+    "pcd": -0.12750000000000006,
+    "sum_prices": 0.8724999999999999,
+    "dutch_book_pct": 0.12750000000000006,
+    "n_markets": 3,
+    "total_vol": 163883.340708,
+    "is_partition": false
+  },
+  {
+    "slug": "military-action-against-iran-ends-on-127",
+    "pcd": -0.47850000000000004,
+    "sum_prices": 0.5215,
+    "dutch_book_pct": 0.47850000000000004,
+    "n_markets": 2,
+    "total_vol": 25044.005112,
+    "is_partition": false
+  },
+  {
+    "slug": "houthi-military-action-against-saudi-arabia-by",
+    "pcd": -0.8200000000000001,
+    "sum_prices": 0.18,
+    "dutch_book_pct": 0.8200000000000001,
+    "n_markets": 2,
+    "total_vol": 28756.530250999996,
+    "is_partition": false
+  },
+  {
+    "slug": "israel-military-action-against-fordow-nuclear-facility-by",
+    "pcd": -0.69,
+    "sum_prices": 0.31,
+    "dutch_book_pct": 0.69,
+    "n_markets": 2,
+    "total_vol": 71149.56932499999,
+    "is_partition": false
+  },
+  {
+    "slug": "jd-vance-diplomatic-meeting-with-iran-by",
+    "pcd": -0.8049999999999999,
+    "sum_prices": 0.195,
+    "dutch_book_pct": 0.8049999999999999,
+    "n_markets": 2,
+    "total_vol": 261113.45341600003,
+    "is_partition": false
+  },
+  {
+    "slug": "will-jd-vance-talk-to-iranian-negotiators-by",
+    "pcd": -0.6805,
+    "sum_prices": 0.3195,
+    "dutch_book_pct": 0.6805,
+    "n_markets": 2,
+    "total_vol": 39642.92448900001,
+    "is_partition": false
+  },
+  {
+    "slug": "where-will-the-next-us-iran-diplomatic-meeting-happen-811",
+    "pcd": -0.0970000000000002,
+    "sum_prices": 0.9029999999999998,
+    "dutch_book_pct": 0.0970000000000002,
+    "n_markets": 15,
+    "total_vol": 439757.863085,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-april-2026",
+    "pcd": 0.8204999999999998,
+    "sum_prices": 1.8204999999999998,
+    "dutch_book_pct": 0.8204999999999998,
+    "n_markets": 12,
+    "total_vol": 2178170.371438999,
+    "is_partition": false
+  },
+  {
+    "slug": "lal-mad-bar-2026-04-04",
+    "pcd": -0.24,
+    "sum_prices": 0.76,
+    "dutch_book_pct": 0.24,
+    "n_markets": 2,
+    "total_vol": 78490.59866899997,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-domestically-grossing-april-film-on-may-31",
+    "pcd": -0.992,
+    "sum_prices": 0.008,
+    "dutch_book_pct": 0.992,
+    "n_markets": 3,
+    "total_vol": 66597.22106499999,
+    "is_partition": false
+  },
+  {
+    "slug": "ucl-spo1-ars-2026-04-07",
+    "pcd": -0.25,
+    "sum_prices": 0.75,
+    "dutch_book_pct": 0.25,
+    "n_markets": 2,
+    "total_vol": 41128.645103999974,
+    "is_partition": false
+  },
+  {
+    "slug": "ucl-rma1-bay1-2026-04-07",
+    "pcd": -0.20999999999999996,
+    "sum_prices": 0.79,
+    "dutch_book_pct": 0.20999999999999996,
+    "n_markets": 2,
+    "total_vol": 105722.9813079996,
+    "is_partition": false
+  },
+  {
+    "slug": "spacex-ipo-closing-market-cap",
+    "pcd": 0.03249999999999997,
+    "sum_prices": 1.0325,
+    "dutch_book_pct": 0.03249999999999997,
+    "n_markets": 8,
+    "total_vol": 1545467.052742,
+    "is_partition": false
+  },
+  {
+    "slug": "how-much-will-spacex-raise-in-its-ipo",
+    "pcd": -0.54,
+    "sum_prices": 0.46,
+    "dutch_book_pct": 0.54,
+    "n_markets": 2,
+    "total_vol": 26313.644703000005,
+    "is_partition": false
+  },
+  {
+    "slug": "which-exchange-will-spacex-list-on",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 3,
+    "total_vol": 70883.83894000002,
+    "is_partition": false
+  },
+  {
+    "slug": "gulf-state-military-action-against-iran-by",
+    "pcd": -0.71,
+    "sum_prices": 0.29,
+    "dutch_book_pct": 0.71,
+    "n_markets": 2,
+    "total_vol": 63648.11694800001,
+    "is_partition": false
+  },
+  {
+    "slug": "cbb-okl-col-2026-04-01",
+    "pcd": 0.7349999999999999,
+    "sum_prices": 1.7349999999999999,
+    "dutch_book_pct": 0.7349999999999999,
+    "n_markets": 3,
+    "total_vol": 114548.31768300003,
+    "is_partition": false
+  },
+  {
+    "slug": "when-will-the-dhs-shutdown-end-521",
+    "pcd": -0.08000000000000007,
+    "sum_prices": 0.9199999999999999,
+    "dutch_book_pct": 0.08000000000000007,
+    "n_markets": 7,
+    "total_vol": 656186.912921,
+    "is_partition": false
+  },
+  {
+    "slug": "mlb-nyy-sea-2026-04-01",
+    "pcd": 0.11749999999999994,
+    "sum_prices": 1.1175,
+    "dutch_book_pct": 0.11749999999999994,
+    "n_markets": 2,
+    "total_vol": 677574.60086,
+    "is_partition": false
+  },
+  {
+    "slug": "mlb-min-kc-2026-04-01",
+    "pcd": -0.050000000000000044,
+    "sum_prices": 0.95,
+    "dutch_book_pct": 0.050000000000000044,
+    "n_markets": 2,
+    "total_vol": 60441.26472000001,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-phi-was-2026-04-01",
+    "pcd": 3.3665000000000003,
+    "sum_prices": 4.3665,
+    "dutch_book_pct": 3.3665000000000003,
+    "n_markets": 12,
+    "total_vol": 1809012.422165001,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-bos-mia-2026-04-01",
+    "pcd": 2.155,
+    "sum_prices": 3.155,
+    "dutch_book_pct": 2.155,
+    "n_markets": 6,
+    "total_vol": 1188913.9957599996,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-atl-orl-2026-04-01",
+    "pcd": 2.535,
+    "sum_prices": 3.535,
+    "dutch_book_pct": 2.535,
+    "n_markets": 7,
+    "total_vol": 1466896.7558640025,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-sac-tor-2026-04-01",
+    "pcd": 2.165,
+    "sum_prices": 3.165,
+    "dutch_book_pct": 2.165,
+    "n_markets": 7,
+    "total_vol": 946278.028079999,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-ind-chi-2026-04-01",
+    "pcd": 1.8800000000000003,
+    "sum_prices": 2.8800000000000003,
+    "dutch_book_pct": 1.8800000000000003,
+    "n_markets": 6,
+    "total_vol": 821693.3830789998,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-mil-hou-2026-04-01",
+    "pcd": 1.4700000000000002,
+    "sum_prices": 2.47,
+    "dutch_book_pct": 1.4700000000000002,
+    "n_markets": 6,
+    "total_vol": 350624.2278340001,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-den-uta-2026-04-01",
+    "pcd": 1.495,
+    "sum_prices": 2.495,
+    "dutch_book_pct": 1.495,
+    "n_markets": 4,
+    "total_vol": 279679.55199299735,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-sas-gsw-2026-04-01",
+    "pcd": 2.5599999999999996,
+    "sum_prices": 3.5599999999999996,
+    "dutch_book_pct": 2.5599999999999996,
+    "n_markets": 6,
+    "total_vol": 506163.69888800016,
+    "is_partition": false
+  },
+  {
+    "slug": "nba-nyk-mem-2026-04-01",
+    "pcd": 1.8249999999999997,
+    "sum_prices": 2.8249999999999997,
+    "dutch_book_pct": 1.8249999999999997,
+    "n_markets": 5,
+    "total_vol": 646727.454543,
+    "is_partition": false
+  },
+  {
+    "slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+    "pcd": -0.45499999999999996,
+    "sum_prices": 0.545,
+    "dutch_book_pct": 0.45499999999999996,
+    "n_markets": 3,
+    "total_vol": 61023.377274,
+    "is_partition": false
+  },
+  {
+    "slug": "bitcoin-price-on-april-2",
+    "pcd": -0.14450000000000007,
+    "sum_prices": 0.8554999999999999,
+    "dutch_book_pct": 0.14450000000000007,
+    "n_markets": 6,
+    "total_vol": 240903.37403999994,
+    "is_partition": false
+  },
+  {
+    "slug": "ethereum-above-on-april-2",
+    "pcd": 3.2504999999999997,
+    "sum_prices": 4.2505,
+    "dutch_book_pct": 3.2504999999999997,
+    "n_markets": 9,
+    "total_vol": 331955.883765,
+    "is_partition": false
+  },
+  {
+    "slug": "bitcoin-above-on-april-2",
+    "pcd": 3.6754999999999995,
+    "sum_prices": 4.6754999999999995,
+    "dutch_book_pct": 3.6754999999999995,
+    "n_markets": 9,
+    "total_vol": 1611425.020246,
+    "is_partition": false
+  },
+  {
+    "slug": "al-01-republican-primary-winner",
+    "pcd": -0.865,
+    "sum_prices": 0.135,
+    "dutch_book_pct": 0.865,
+    "n_markets": 2,
+    "total_vol": 28106.83,
+    "is_partition": true
+  },
+  {
+    "slug": "which-countries-will-send-warships-through-the-strait-of-hormuz-by-april-30",
+    "pcd": -0.39749999999999996,
+    "sum_prices": 0.6025,
+    "dutch_book_pct": 0.39749999999999996,
+    "n_markets": 11,
+    "total_vol": 751011.3192770001,
+    "is_partition": false
+  },
+  {
+    "slug": "trump-approval-rating-on-april-3",
+    "pcd": 0.0129999999999999,
+    "sum_prices": 1.013,
+    "dutch_book_pct": 0.0129999999999999,
+    "n_markets": 4,
+    "total_vol": 134380.58425900002,
+    "is_partition": false
+  },
+  {
+    "slug": "how-many-6pt5-or-above-earthquakes-march-30-april-5",
+    "pcd": -0.37050000000000005,
+    "sum_prices": 0.6295,
+    "dutch_book_pct": 0.37050000000000005,
+    "n_markets": 2,
+    "total_vol": 44674.84726999999,
+    "is_partition": false
+  },
+  {
+    "slug": "ethereum-above-on-april-3",
+    "pcd": 2.0125,
+    "sum_prices": 3.0125,
+    "dutch_book_pct": 2.0125,
+    "n_markets": 4,
+    "total_vol": 81896.04969800002,
+    "is_partition": false
+  },
+  {
+    "slug": "bitcoin-above-on-april-3",
+    "pcd": 5.636000000000001,
+    "sum_prices": 6.636000000000001,
+    "dutch_book_pct": 5.636000000000001,
+    "n_markets": 11,
+    "total_vol": 417889.9874709999,
+    "is_partition": false
+  },
+  {
+    "slug": "p2pme-fdv-above-one-day-after-launch",
+    "pcd": 0.978,
+    "sum_prices": 1.978,
+    "dutch_book_pct": 0.978,
+    "n_markets": 3,
+    "total_vol": 156425.362975,
+    "is_partition": false
+  },
+  {
+    "slug": "bra-int-sao-2026-04-01",
+    "pcd": -0.30000000000000004,
+    "sum_prices": 0.7,
+    "dutch_book_pct": 0.30000000000000004,
+    "n_markets": 2,
+    "total_vol": 245366.03392799996,
+    "is_partition": false
+  },
+  {
+    "slug": "elon-musk-of-tweets-march-31-april-7",
+    "pcd": 0.036000000000000254,
+    "sum_prices": 1.0360000000000003,
+    "dutch_book_pct": 0.036000000000000254,
+    "n_markets": 23,
+    "total_vol": 4565050.600124999,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-starodu-akli-2026-03-28",
+    "pcd": 1.5,
+    "sum_prices": 2.5,
+    "dutch_book_pct": 1.5,
+    "n_markets": 5,
+    "total_vol": 131899.76509899998,
+    "is_partition": false
+  },
+  {
+    "slug": "wta-brace-cengiz-2026-03-28",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 47064.154341999965,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-miami-on-april-1-2026",
+    "pcd": -0.007000000000000117,
+    "sum_prices": 0.9929999999999999,
+    "dutch_book_pct": 0.007000000000000117,
+    "n_markets": 3,
+    "total_vol": 234972.72990300023,
+    "is_partition": false
+  },
+  {
+    "slug": "ethereum-above-on-april-4",
+    "pcd": 0.9645000000000001,
+    "sum_prices": 1.9645000000000001,
+    "dutch_book_pct": 0.9645000000000001,
+    "n_markets": 2,
+    "total_vol": 25903.923916999996,
+    "is_partition": false
+  },
+  {
+    "slug": "bitcoin-above-on-april-4",
+    "pcd": 4.487,
+    "sum_prices": 5.487,
+    "dutch_book_pct": 4.487,
+    "n_markets": 7,
+    "total_vol": 171517.78347000014,
+    "is_partition": false
+  },
+  {
+    "slug": "atp-zhou-uchiyam-2026-03-29",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 159129.76004099983,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-minlat-algo1-2026-03-30",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 105467.9469760001,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-london-on-april-2-2026",
+    "pcd": -0.03700000000000003,
+    "sum_prices": 0.963,
+    "dutch_book_pct": 0.03700000000000003,
+    "n_markets": 6,
+    "total_vol": 82913.45085400002,
+    "is_partition": false
+  },
+  {
+    "slug": "bitcoin-above-on-april-5",
+    "pcd": 5.1495,
+    "sum_prices": 6.1495,
+    "dutch_book_pct": 5.1495,
+    "n_markets": 7,
+    "total_vol": 173739.58143700004,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-london-on-april-1-2026",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 302297.0332499999,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-sao-paulo-on-april-1-2026",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 3,
+    "total_vol": 82480.35390699998,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-buenos-aires-on-april-1-2026",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 3,
+    "total_vol": 121845.39394100002,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-seattle-on-april-1-2026",
+    "pcd": -0.04300000000000004,
+    "sum_prices": 0.957,
+    "dutch_book_pct": 0.04300000000000004,
+    "n_markets": 3,
+    "total_vol": 70681.92198799999,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-nyc-on-april-1-2026",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 2,
+    "total_vol": 315864.87671000004,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-atlanta-on-april-1-2026",
+    "pcd": -0.0010000000000000009,
+    "sum_prices": 0.999,
+    "dutch_book_pct": 0.0010000000000000009,
+    "n_markets": 2,
+    "total_vol": 98078.49985000002,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-chicago-on-april-1-2026",
+    "pcd": -0.015000000000000013,
+    "sum_prices": 0.985,
+    "dutch_book_pct": 0.015000000000000013,
+    "n_markets": 4,
+    "total_vol": 150474.47931099997,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-hong-kong-on-april-1-2026",
+    "pcd": 0.0,
+    "sum_prices": 1.0,
+    "dutch_book_pct": 0.0,
+    "n_markets": 3,
+    "total_vol": 207188.38995600006,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-taipei-on-april-1-2026",
+    "pcd": 0.0015000000000000568,
+    "sum_prices": 1.0015,
+    "dutch_book_pct": 0.0015000000000000568,
+    "n_markets": 3,
+    "total_vol": 109820.415366,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-seoul-on-april-2-2026",
+    "pcd": -0.931,
+    "sum_prices": 0.069,
+    "dutch_book_pct": 0.931,
+    "n_markets": 4,
+    "total_vol": 91299.75561400001,
+    "is_partition": false
+  },
+  {
+    "slug": "highest-temperature-in-chicago-on-april-2-2026",
+    "pcd": -0.0045000000000000595,
+    "sum_prices": 0.9954999999999999,
+    "dutch_book_pct": 0.0045000000000000595,
+    "n_markets": 2,
+    "total_vol": 38276.83806800004,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-march-30-april-5",
+    "pcd": 0.496,
+    "sum_prices": 1.496,
+    "dutch_book_pct": 0.496,
+    "n_markets": 13,
+    "total_vol": 1461875.835548999,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-march-30-april-5",
+    "pcd": 0.32799999999999985,
+    "sum_prices": 1.3279999999999998,
+    "dutch_book_pct": 0.32799999999999985,
+    "n_markets": 8,
+    "total_vol": 216995.13231199997,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-solana-hit-march-30-april-5",
+    "pcd": -0.7655000000000001,
+    "sum_prices": 0.2345,
+    "dutch_book_pct": 0.7655000000000001,
+    "n_markets": 3,
+    "total_vol": 54701.717789999995,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-xrp-hit-march-30-april-5",
+    "pcd": -0.916,
+    "sum_prices": 0.084,
+    "dutch_book_pct": 0.916,
+    "n_markets": 2,
+    "total_vol": 27451.230621999995,
+    "is_partition": false
+  },
+  {
+    "slug": "elon-musk-of-tweets-april-2-april-4",
+    "pcd": -0.18600000000000005,
+    "sum_prices": 0.814,
+    "dutch_book_pct": 0.18600000000000005,
+    "n_markets": 9,
+    "total_vol": 184345.335292,
+    "is_partition": false
+  },
+  {
+    "slug": "bitcoin-above-on-april-6",
+    "pcd": 0.9650000000000001,
+    "sum_prices": 1.965,
+    "dutch_book_pct": 0.9650000000000001,
+    "n_markets": 2,
+    "total_vol": 38561.629860999994,
+    "is_partition": false
+  },
+  {
+    "slug": "2026-valero-texas-open-winner",
+    "pcd": -0.9145,
+    "sum_prices": 0.08549999999999999,
+    "dutch_book_pct": 0.9145,
+    "n_markets": 3,
+    "total_vol": 136195.171102,
+    "is_partition": true
+  },
+  {
+    "slug": "elon-musk-of-tweets-april-3-april-10",
+    "pcd": -0.21200000000000008,
+    "sum_prices": 0.7879999999999999,
+    "dutch_book_pct": 0.21200000000000008,
+    "n_markets": 15,
+    "total_vol": 349046.89658,
+    "is_partition": false
+  },
+  {
+    "slug": "cs2-keyd-odk-2026-04-01",
+    "pcd": -0.69,
+    "sum_prices": 0.31,
+    "dutch_book_pct": 0.69,
+    "n_markets": 2,
+    "total_vol": 278176.17088599945,
+    "is_partition": false
+  },
+  {
+    "slug": "what-will-trump-say-during-address-to-the-nation-on-april-1",
+    "pcd": 7.707500000000001,
+    "sum_prices": 8.707500000000001,
+    "dutch_book_pct": 7.707500000000001,
+    "n_markets": 19,
+    "total_vol": 938783.1629870001,
+    "is_partition": false
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-on-april-1",
+    "pcd": -0.675,
+    "sum_prices": 0.325,
+    "dutch_book_pct": 0.675,
+    "n_markets": 11,
+    "total_vol": 375954.258409,
+    "is_partition": false
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "n_markets_total": 200351,
+  "n_active": 5193,
+  "n_clusters": 737,
+  "n_partition": 189,
+  "n_nonpartition": 548,
+  "part_mean_pcd": -0.15844179894179902,
+  "part_median_pcd": -0.015000000000000013,
+  "part_vw_pcd": -0.04168817669696598,
+  "part_pct_over": 4.232804232804233,
+  "part_pct_under": 41.7989417989418,
+  "part_pct_coherent": 43.386243386243386,
+  "npart_mean_pcd": 0.22625638686131389,
+  "npart_median_pcd": 0.0,
+  "npart_vw_pcd": 0.4127723259438255,
+  "npart_pct_over": 31.204379562043794,
+  "npart_pct_coherent": 27.55474452554745,
+  "active_price_mean": 0.19905141536683998,
+  "active_price_median": 0.055,
+  "active_price_n": 5193
+}
